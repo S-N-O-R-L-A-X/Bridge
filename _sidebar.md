@@ -8,6 +8,7 @@
     - [LEVEL3 B-22](./BM2000/tricks/LEVEL3%20B-22.md)
     - [LEVEL4 D-9](./BM2000/tricks/LEVEL4%20D-9.md)
     - [LEVEL5 A-22](./BM2000/tricks/LEVEL5%20A-22.md)
+    -  [LEVEL5 A-30](./BM2000/tricks/LEVEL5%20A-30.md)
 
 - training
 
