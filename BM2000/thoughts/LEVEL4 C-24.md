@@ -1,14 +1,25 @@
+## LEVEL4 C-24
+
 :spades: 32
+
 :hearts: KQJ
+
 :diamonds: 432
+
 :clubs: AK765
 
+---
+
 :spades: AKJT9
+
 :hearts: 32
+
 :diamonds: AKQ
+
 :clubs: 432
 
 Lead: :diamonds: J
+
 E :diamonds: 6
 
 <table>
