@@ -44,7 +44,7 @@
       admin: ['S-N-O-R-L-A-X'],
       // facebook-like distraction free mode
       distractionFreeMode: false,
-      id: decodeURI(window.location.pathname),
+      id: decodeURI(window.location.href.substr(window.location.href.lastIndexOf("/") + 1)),
       // proxy: 'https://cors-anywhere.azm.workers.dev/https://github.com/login/oauth/access_token'
     })
   </script>
