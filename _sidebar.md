@@ -3,6 +3,7 @@
 - BM2000
   - thoughts
     - [LEVEL4 A-36](BM2000/thoughts/LEVEL4%20A-36.md)
+    - [LEVEL4 C-12](BM2000/thoughts/LEVEL4%20C-12.md)
     - [LEVEL4 C-24](BM2000/thoughts/LEVEL4%20C-24.md)
     - [LEVEL4 D-27](BM2000/thoughts/LEVEL4%20D-27.md)
   - tricks
