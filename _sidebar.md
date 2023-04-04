@@ -11,6 +11,8 @@
     - [LEVEL4 D-9](BM2000/tricks/LEVEL4%20D-9.md)
     - [LEVEL5 A-22](BM2000/tricks/LEVEL5%20A-22.md)
     - [LEVEL5 A-30](BM2000/tricks/LEVEL5%20A-30.md)
+  - defence
+    - [LEVEL4 C-12](BM2000/defence/LEVEL4%20C-12.md)
 
 - training
 
