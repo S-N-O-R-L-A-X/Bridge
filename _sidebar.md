@@ -14,6 +14,9 @@
   - defence
     - [LEVEL4 C-24](BM2000/defence/LEVEL4%20C-24.md)
 
+- competition
+  - [2023-05-20](competition/2023-05-20/index.md)
+
 - training
 
   - [2023-02-22](training/2023-02-22.md)
