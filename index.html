@@ -9,6 +9,39 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.css">
+  <style>
+    .board-container {
+      display: grid;
+      grid-template-areas:
+        'board-number Nhand NE'
+        'Whand blank Ehand'
+        'SW Shand SE';
+      grid-gap: 1rem;
+      margin: 1rem;
+      font-size: 1.2rem;
+    }
+
+    .board-number {
+      grid-area: board-number;
+      font-size: 2rem;
+    }
+
+    .Nhand {
+      grid-area: Nhand;
+    }
+
+    .Shand {
+      grid-area: Shand;
+    }
+
+    .Whand {
+      grid-area: Whand;
+    }
+
+    .Ehand {
+      grid-area: Ehand;
+    }
+  </style>
 </head>
 
 <body>
