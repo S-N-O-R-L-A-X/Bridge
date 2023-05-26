@@ -1,5 +1,4 @@
 ## Drury 后示强与示弱
-:speech_balloon: 需要约定
 
 实战牌：
 <div class="board-container">
@@ -16,6 +15,18 @@
     <font color="00A000">♣</font> K6 <br>
   </div>
 </div>
+
+<table>
+    <tr><td>NORTH</td>  <td>SOUTH</td></tr>
+    <tr><td></td>   <td>1S</td> </tr>
+    <tr><td>2C</td>   <td>2D</td> </tr>
+    <tr><td>2S</td>   <td>2NT * 再次等叫，请求同伴描述牌型</td></tr>
+    <tr><td>3C</td>   <td>3NT</td> </tr>
+</table>
+
+
+## DONT 之后的叫牌
+:speech_balloon: 需要约定
 
 
 ## 又一次在比赛中打XX定约
