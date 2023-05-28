@@ -28,6 +28,43 @@
 ## DONT 之后的叫牌
 :speech_balloon: 需要约定
 
+## 同伴精彩的防守
+虽然叫牌进程打牌过程都有点想不起来，但同伴的防守还是很精彩……
+<!-- <table>
+    <tr><td>WEST</td> <td>NORTH</td> <td>EAST</td> <td>SOUTH</td></tr>
+    <tr><td></td> <td></td> <td></td> <td>pass</td></tr>
+    <tr><td>1C</td> <td>pass</td> <td>1S</td> <td>pass</td></tr>
+    <tr><td>1NT</td> <td>pass</td> <td></td> <td> </td></tr>
+</table> -->
+
+北家首攻DJ，庄家DA，我D5。然后我隐约记得庄家小草花到A，再小黑桃到SA出草花暗手CT，同伴CQ吃住，稍加思索，直接扔出了HJ！我HK吃后，也是不顾张数回出H8。庄家没能发现H7的作用继续出小，定约宕一。
+
+<div class="board-container">
+  <div class="Nhand">
+    <font color="0000C0">♠</font> 93 <br>
+    <font color="E80000">♥</font> AJ94 <br>
+    <font color="FF6000">♦</font> JT93 <br>
+    <font color="00A000">♣</font> Q53 <br>
+  </div>
+  <div class="Shand">
+    <font color="0000C0">♠</font> 8742 <br>
+    <font color="E80000">♥</font> K862 <br>
+    <font color="FF6000">♦</font> Q54 <br>
+    <font color="00A000">♣</font> 76 <br>
+  </div>
+  <div class="Ehand">
+    <font color="0000C0">♠</font> AKT5 <br>
+    <font color="E80000">♥</font> T <br>
+    <font color="FF6000">♦</font> AK72 <br>
+    <font color="00A000">♣</font> J842 <br>
+  </div>
+  <div class="Whand">
+    <font color="0000C0">♠</font> QJ6 <br>
+    <font color="E80000">♥</font> Q753 <br>
+    <font color="FF6000">♦</font> 86 <br>
+    <font color="00A000">♣</font> AKT9 <br>
+  </div>
+</div>
 
 ## 又一次在比赛中打XX定约
 
