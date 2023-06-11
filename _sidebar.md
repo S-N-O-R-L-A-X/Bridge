@@ -27,5 +27,6 @@
   - [2023-05-03](training/2023-05-03.md)
   - [2023-05-31](training/2023-05-31.md)
   - [2023-06-07](training/2023-06-07.md)
+  - [2023-06-11](training/2023-06-11.md)
 
 - [13P](www.dgbrg.com/13P/index.html)
