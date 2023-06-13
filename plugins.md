@@ -15,7 +15,7 @@
 <table>
     <tr><td>NORTH</td>  <td>SOUTH</td></tr>
     <tr><td>2D</td>   <td>2H/S</td> </tr>
-    <tr><td>3C 54m 22+<br/>3D 4441单张低花 22+<br/>3H 4144 22+<br/>3S 4144 22+<br/></td>   <td></td> </tr>
+    <tr><td>3C 54m 22+<br/>3D 4441单张低花 22+<br/>3H 4144 22+<br/>3S 1444 22+<br/></td>   <td></td> </tr>
 </table>
 
 ## 1NT后被指示性首攻X
@@ -48,4 +48,48 @@
     <tr><td>WEST</td> <td>NORTH</td> <td>EAST</td> <td>SOUTH</td></tr>
     <tr><td></td> <td>1NT</td> <td>pass</td> <td>2H</td></tr>
     <tr><td>X</td> <td>pass 无挡或长H希望打2HXX<br/>XX 有挡无配合<br/>2S 有配合<br/>2NT/3C/3D/3S 同原来超转移<br/>3H 无废点超转移<br/></td> <td></td> <td></td></tr>
+</table>
+
+<table>
+    <tr><td>WEST</td> <td>NORTH</td> <td>EAST</td> <td>SOUTH</td></tr>
+    <tr><td></td> <td>1NT</td> <td>pass</td> <td>2S</td></tr>
+    <tr><td>X</td> <td>pass 无挡低限或希望打2SXX<br/>XX 无挡高限<br/>2NT 有挡低限<br/>3C 有挡高限<br/></td> <td></td> <td></td></tr>
+</table>
+
+<table>
+    <tr><td>WEST</td> <td>NORTH</td> <td>EAST</td> <td>SOUTH</td></tr>
+    <tr><td></td> <td>1NT</td> <td>pass</td> <td>2S</td></tr>
+    <tr><td>X</td> <td>pass 无挡低限或希望打2SXX</td> <td>pass</td> <td> XX 重询 <br/> 2NT 44+m重询 <br/>3C/3D 5+ toplay</td></tr>
+</table>
+
+<table>
+    <tr><td>WEST</td> <td>NORTH</td> <td>EAST</td> <td>SOUTH</td></tr>
+    <tr><td></td> <td>1NT</td> <td>pass</td> <td>2S</td></tr>
+    <tr><td>X</td> <td>pass 无挡低限或希望打2SXX</td> <td>pass</td> <td> XX 重询</td></tr>
+</table>
+
+<table>
+    <tr><td>WEST</td> <td>NORTH</td> <td>EAST</td> <td>SOUTH</td></tr>
+    <tr><td></td> <td>1NT</td> <td>pass</td> <td>2S</td></tr>
+    <tr><td>X</td> <td>pass 无挡低限或希望打2SXX</td> <td>pass</td> <td> XX 重询</td></tr>
+    <tr><td>pass</td> <td>2NT 无5张套<br/>3C/D/H 5+ <br/></td> <td></td> <td></td></tr>
+</table>
+
+<table>
+    <tr><td>WEST</td> <td>NORTH</td> <td>EAST</td> <td>SOUTH</td></tr>
+    <tr><td></td> <td>1NT</td> <td>pass</td> <td>2S</td></tr>
+    <tr><td>X</td> <td>XX 无挡高限</td> <td>pass</td> <td>2NT 重询牌型 <br/>3C/3D/3H/3S/3NT...同未加倍同伴叫2NT</td></tr>
+</table>
+
+<table>
+    <tr><td>WEST</td> <td>NORTH</td> <td>EAST</td> <td>SOUTH</td></tr>
+    <tr><td></td> <td>1NT</td> <td>pass</td> <td>2S</td></tr>
+    <tr><td>X</td> <td>XX 无挡高限</td> <td>pass</td> <td>2NT 重询牌型 </td></tr>
+    <tr><td>X</td> <td>3C 有一门4张低花<br/>3D 有一门5张低花<br/>3H 4H<br/>3S 5H<br/>3NT 44低花</td> <td></td> <td></td></tr>
+</table>
+
+<table>
+    <tr><td>WEST</td> <td>NORTH</td> <td>EAST</td> <td>SOUTH</td></tr>
+    <tr><td></td> <td>1NT</td> <td>pass</td> <td>2S</td></tr>
+    <tr><td>X</td> <td>2NT/3C 有挡低限/有挡高限</td> <td>pass</td> <td>同未加倍同伴叫2NT/3C</td></tr>
 </table>
