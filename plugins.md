@@ -36,3 +36,16 @@
     <tr><td></td> <td>1NT</td> <td>pass</td> <td>2C</td></tr>
     <tr><td>X</td> <td>XX</td> <td>pass</td> <td>2D D4+ NF<br/>2H/S 同同伴叫2D后<br/></td></tr>
 </table>
+
+
+<table>
+    <tr><td>WEST</td> <td>NORTH</td> <td>EAST</td> <td>SOUTH</td></tr>
+    <tr><td></td> <td>1NT</td> <td>pass</td> <td>2D</td></tr>
+    <tr><td>X</td> <td>pass 无挡或长D希望打2DXX<br/>XX 有挡无配合<br/>2H 有配合<br/>2S/2NT/3C/3H 同原来超转移<br/>3D 无废点超转移</td> <td></td> <td></td></tr>
+</table>
+
+<table>
+    <tr><td>WEST</td> <td>NORTH</td> <td>EAST</td> <td>SOUTH</td></tr>
+    <tr><td></td> <td>1NT</td> <td>pass</td> <td>2H</td></tr>
+    <tr><td>X</td> <td>pass 无挡或长H希望打2HXX<br/>XX 有挡无配合<br/>2S 有配合<br/>2NT/3C/3D/3S 同原来超转移<br/>3H 无废点超转移<br/></td> <td></td> <td></td></tr>
+</table>
