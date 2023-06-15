@@ -93,3 +93,22 @@
     <tr><td></td> <td>1NT</td> <td>pass</td> <td>2S</td></tr>
     <tr><td>X</td> <td>2NT/3C 有挡低限/有挡高限</td> <td>pass</td> <td>同未加倍同伴叫2NT/3C</td></tr>
 </table>
+
+## 1NT 改良低花stayman
+
+<table>
+    <tr><td>NORTH</td>  <td>SOUTH</td></tr>
+    <tr><td>1NT</td>   <td>3D 54m<br/>3H 55m邀请<br/>3S 55m 逼局</td> </tr>
+</table>
+
+<table>
+    <tr><td>NORTH</td>  <td>SOUTH</td></tr>
+    <tr><td>1NT</td>   <td>2S </td> </tr>
+    <tr><td>2NT</td>   <td>3C C inv<br/>3D D inv<br/>3H/3S 55m 单张满贯兴趣<br/>3NT toplay<br/>4C 6C5D<br/>4D 5C6D<br/>4H/S 55m 缺门</td> </tr>
+</table>
+
+<table>
+    <tr><td>NORTH</td>  <td>SOUTH</td></tr>
+    <tr><td>1NT</td>   <td>2S </td> </tr>
+    <tr><td>3C</td>   <td>3D m inv<br/>3H/S  55m  单张满贯兴趣<br/>3NT toplay<br/>4C 6C5D<br/>4D 5C6D<br/>4H/S 55m 缺门 </td> </tr>
+</table>
