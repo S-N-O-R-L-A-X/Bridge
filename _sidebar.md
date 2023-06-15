@@ -29,4 +29,4 @@
   - [2023-06-07](training/2023-06-07.md)
   - [2023-06-11](training/2023-06-11.md)
 
-- [13P](www.dgbrg.com/13P/index.html)
+- [13P](https://s-n-o-r-l-a-x.github.io/13p-backup/)
