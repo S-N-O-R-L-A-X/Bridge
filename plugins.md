@@ -41,13 +41,13 @@
 <table>
     <tr><td>WEST</td> <td>NORTH</td> <td>EAST</td> <td>SOUTH</td></tr>
     <tr><td></td> <td>1NT</td> <td>pass</td> <td>2D</td></tr>
-    <tr><td>X</td> <td>pass 无挡或长D希望打2DXX<br/>XX 有挡无配合<br/>2H 有配合<br/>2S/2NT/3C/3H 同原来超转移<br/>3D 无废点超转移</td> <td></td> <td></td></tr>
+    <tr><td>X</td> <td>pass 无挡无配合或长D希望打2DXX<br/>XX 有挡无配合<br/>2H 有配合<br/>2S/2NT/3C/3H 同原来超转移<br/>3D 无废点超转移</td> <td></td> <td></td></tr>
 </table>
 
 <table>
     <tr><td>WEST</td> <td>NORTH</td> <td>EAST</td> <td>SOUTH</td></tr>
     <tr><td></td> <td>1NT</td> <td>pass</td> <td>2H</td></tr>
-    <tr><td>X</td> <td>pass 无挡或长H希望打2HXX<br/>XX 有挡无配合<br/>2S 有配合<br/>2NT/3C/3D/3S 同原来超转移<br/>3H 无废点超转移<br/></td> <td></td> <td></td></tr>
+    <tr><td>X</td> <td>pass 无挡无配合或长H希望打2HXX<br/>XX 有挡无配合<br/>2S 有配合<br/>2NT/3C/3D/3S 同原来超转移<br/>3H 无废点超转移<br/></td> <td></td> <td></td></tr>
 </table>
 
 <table>
@@ -98,7 +98,7 @@
 
 <table>
     <tr><td>NORTH</td>  <td>SOUTH</td></tr>
-    <tr><td>1NT</td>   <td>3D 54m<br/>3H 55m邀请<br/>3S 55m 逼局</td> </tr>
+    <tr><td>1NT</td>   <td>3D 5C4D 满贯兴趣 <br/>3H 5D4C 满贯兴趣<br/>3S 55m FG</td> </tr>
 </table>
 
 <table>
