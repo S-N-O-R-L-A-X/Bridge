@@ -15,7 +15,26 @@
 <table>
     <tr><td>NORTH</td>  <td>SOUTH</td></tr>
     <tr><td>2D</td>   <td>2H/S</td> </tr>
-    <tr><td>3C 54m 22+<br/>3D 4441单张低花 22+<br/>3H 4144 22+<br/>3S 1444 22+<br/></td>   <td></td> </tr>
+    <tr><td>3C 54m 22+<br/>3D 4441/4414 22+<br/>3H 4144 22+<br/>3S 1444 22+<br/></td>   <td></td> </tr>
+</table>
+
+<table>
+    <tr><td>NORTH</td>  <td>SOUTH</td></tr>
+    <tr><td>2D</td>   <td>2H/S</td> </tr>
+    <tr><td>3C 54m 22+<br/></td>   <td>3D 问叫<br/>3H C4+<br/>3S D4+<br/>3NT toplay</td> </tr>
+</table>
+
+<table>
+    <tr><td>NORTH</td>  <td>SOUTH</td></tr>
+    <tr><td>2D</td>   <td>2H/S</td> </tr>
+    <tr><td>3D 4441/4414 22+<br/></td>   <td>3H H4+ 满贯兴趣<br/>3S S4+ 满贯兴趣<br/>3NT toplay<br/>4C/5C 双低花示选</td> </tr>
+</table>
+
+<table>
+    <tr><td>NORTH</td>  <td>SOUTH</td></tr>
+    <tr><td>2D</td>   <td>2H/S</td> </tr>
+    <tr><td>3D 4441/4414 22+<br/></td>   <td>4C 双低花示选</td> </tr>
+    <tr><td>4D C4+ <br/> 4H D4+<br/> 之后叫牌均为扣叫</td>   <td></td> </tr>
 </table>
 
 ## 1NT后被指示性首攻X
