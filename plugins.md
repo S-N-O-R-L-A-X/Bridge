@@ -131,3 +131,14 @@
     <tr><td>1NT</td>   <td>2S </td> </tr>
     <tr><td>3C</td>   <td>3D m inv<br/>3H/S  55m  单张满贯兴趣<br/>3NT toplay<br/>4C 6C5D<br/>4D 5C6D<br/>4H/S 55m 缺门 </td> </tr>
 </table>
+
+## 二阶阻击叫的争叫
+<table>
+    <tr><td>WEST</td> <td>NORTH</td> <td>EAST</td> <td>SOUTH</td></tr>
+    <tr><td>2H 自然6张阻击</td> <td>2NT</td> <td>pass</td> <td>3C 三花色问叫<br/>3D 挡张重询<br/>3H 转移S<br/>3S 转移3NT<br/>3NT 转移4C<br/>4C 转移4D<br/></td></tr>
+</table>
+
+<table>
+    <tr><td>WEST</td> <td>NORTH</td> <td>EAST</td> <td>SOUTH</td></tr>
+    <tr><td>2S 自然6张阻击</td> <td>2NT</td> <td>pass</td> <td>3C 三花色问叫<br/>3D 转移H<br/>3H 挡张重询<br/>3S 转移3NT<br/>3NT 转移4C<br/>4C 转移4D<br/></td></tr>
+</table>
