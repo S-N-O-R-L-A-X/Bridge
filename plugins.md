@@ -154,3 +154,19 @@
     <tr><td>2S 自然6张阻击</td> <td>2NT</td> <td>pass</td> <td>3C 三花色问叫</td></tr>
     <tr><td>pass</td><td>3D 有5张m<br/>3H 4+H<br/>3S 44m<br/>3NT 无上述内容<br/></td></tr>
 </table>
+
+<table>
+    <tr><td>WEST</td> <td>NORTH</td> <td>EAST</td> <td>SOUTH</td></tr>
+    <tr><td>2H 双高花</td> <td>2NT</td> <td>pass</td> <td>3C/D 6张想打<br/>3H 44m重询挡张FG<br/>3S 转移3NT<br/>3NT 转移4C<br/>4C 转移4D<br/></td></tr>
+</table>
+
+<table>
+    <tr><td>WEST</td> <td>NORTH</td> <td>EAST</td> <td>SOUTH</td></tr>
+    <tr><td>2S S+m</td> <td>2NT</td> <td>pass</td> <td>3C 三花色问叫<br/>3D 转移H<br/>3H 挡张重询<br/>3S 转移3NT<br/>3NT 转移4C<br/>4C 转移4D<br/></td></tr>
+</table>
+
+<table>
+    <tr><td>WEST</td> <td>NORTH</td> <td>EAST</td> <td>SOUTH</td></tr>
+    <tr><td>2S S+m</td> <td>2NT</td> <td>pass</td> <td>3C 三花色问叫</td></tr>
+    <tr><td>pass</td><td>3D 有5张m<br/>3H 4H<br/>3S 5张H<br/>3NT 无上述内容<br/></td></tr>
+</table>
