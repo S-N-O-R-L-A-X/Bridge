@@ -1,13 +1,30 @@
 ## 傀儡stayman
 <table>
     <tr><td>NORTH</td>  <td>SOUTH</td></tr>
-    <tr><td>2NT</td>   <td>3C</td> </tr>
+    <tr><td>2D* 多功能</td>   <td>2H* 等叫</td> </tr>
+    <tr><td>2NT 强均型</td>   <td>3C* 问叫</td> </tr>
 </table>
 
 <table>
     <tr><td>NORTH</td>  <td>SOUTH</td></tr>
-    <tr><td>2NT</td>   <td>3C</td> </tr>
-    <tr><td>3D 4张M<br/>3H <br/>3S<br/></td>   <td></td> </tr>
+    <tr><td>2D* 多功能</td>   <td>2H* 等叫</td> </tr>
+    <tr><td>2NT 强均型</td>   <td>3C* 问叫</td> </tr>
+    <tr><td>3D 有4张M<br/>3H 2344<br/>3S 3244<br/></td>   <td></td> </tr>
+</table>
+
+<table>
+    <tr><td>NORTH</td>  <td>SOUTH</td></tr>
+    <tr><td>2D* 多功能</td>   <td>2H* 等叫</td> </tr>
+    <tr><td>2NT 强均型</td>   <td>3C* 问叫</td> </tr>
+    <tr><td>3D 有4张M</td>   <td>3H 等叫<br/>3S H4<br/>3NT<br/>4C/D 4S+5C/D<br/>4H<br/></td> </tr>
+</table>
+
+<table>
+    <tr><td>NORTH</td>  <td>SOUTH</td></tr>
+    <tr><td>2D* 多功能</td>   <td>2H* 等叫</td> </tr>
+    <tr><td>2NT 强均型</td>   <td>3C* 问叫</td> </tr>
+    <tr><td>3D 有4张M</td>   <td>3H 等叫<br/>3S H4<br/>3NT<br/>4C/D 4S+5C/D<br/>4H<br/></td> </tr>
+    <tr><td>3S S4<br/>3NT H4</td>   <td></td> </tr>
 </table>
 
 ## 多功能2D后的示强
