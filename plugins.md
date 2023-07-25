@@ -179,7 +179,18 @@
 
 <table>
     <tr><td>WEST</td> <td>NORTH</td> <td>EAST</td> <td>SOUTH</td></tr>
-    <tr><td>2S S+m</td> <td>2NT</td> <td>pass</td> <td>3C 三花色问叫<br/>3D 转移H<br/>3H 挡张重询<br/>3S 转移3NT<br/>3NT 转移4C<br/>4C 转移4D<br/></td></tr>
+    <tr><td>2H H+m</td> <td>2NT</td> <td>pass</td> <td>3C 三花色问叫<br/>3D H单缺，5431或4441<br/>3H 转移S<br/>3S 转移3NT<br/>3NT 转移4C<br/>4C 转移4D<br/></td></tr>
+</table>
+
+<table>
+    <tr><td>WEST</td> <td>NORTH</td> <td>EAST</td> <td>SOUTH</td></tr>
+    <tr><td>2H H+m</td> <td>2NT</td> <td>pass</td> <td>3C 三花色问叫</td></tr>
+    <tr><td>pass</td><td>3D 有5张m<br/>3H 4S<br/>3S 5张S<br/>3NT 无上述内容<br/></td></tr>
+</table>
+
+<table>
+    <tr><td>WEST</td> <td>NORTH</td> <td>EAST</td> <td>SOUTH</td></tr>
+    <tr><td>2S S+m</td> <td>2NT</td> <td>pass</td> <td>3C 三花色问叫<br/>3D 转移H<br/>3H S单缺，5431或4441<br/>3S 转移3NT<br/>3NT 转移4C<br/>4C 转移4D<br/></td></tr>
 </table>
 
 <table>
@@ -187,3 +198,6 @@
     <tr><td>2S S+m</td> <td>2NT</td> <td>pass</td> <td>3C 三花色问叫</td></tr>
     <tr><td>pass</td><td>3D 有5张m<br/>3H 4H<br/>3S 5张H<br/>3NT 无上述内容<br/></td></tr>
 </table>
+
+## 缺门关键张问叫
+03/1/1+Q/2/2+Q
