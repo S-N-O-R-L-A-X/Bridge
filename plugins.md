@@ -201,3 +201,17 @@
 
 ## 缺门关键张问叫
 03/1/1+Q/2/2+Q
+
+## 1NT后的逃叫
+<table>
+    <tr><td>WEST</td> <td>NORTH</td> <td>EAST</td> <td>SOUTH</td></tr>
+    <tr><td></td> <td>1NT</td> <td>X</td> <td>XX 转移2C</td></tr>
+    <tr><td>pass</td><td>2C</td><td>pass</td><td>2D 4D+4M <br /> 2H 4H+4S</td></tr>
+</table>
+
+<table>
+    <tr><td>WEST</td> <td>NORTH</td> <td>EAST</td> <td>SOUTH</td></tr>
+    <tr><td></td> <td>1NT</td> <td>X</td> <td>XX</td></tr>
+    <tr><td>pass</td><td>2C</td><td>pass</td><td>pass</td></tr>
+    <tr><td>X</td><td>pass</td><td>pass</td><td>XX 4C+4D/H/S</td></tr>
+</table>
