@@ -215,3 +215,10 @@
     <tr><td>pass</td><td>2C</td><td>pass</td><td>pass</td></tr>
     <tr><td>X</td><td>pass</td><td>pass</td><td>XX 4C+4D/H/S</td></tr>
 </table>
+
+## 双套牌的牺牲与否
+<table>
+    <tr><td>WEST</td> <td>NORTH</td> <td>EAST</td> <td>SOUTH</td></tr>
+    <tr><td>1X</td> <td>2X</td> <td>any</td> <td>3Y（选择同伴一门花色）</td></tr>
+    <tr><td>4Z（any）</td><td>？</td><td></td><td></td></tr>
+</table>
