@@ -215,3 +215,20 @@
     <tr><td>pass</td><td>2C</td><td>pass</td><td>pass</td></tr>
     <tr><td>X</td><td>pass</td><td>pass</td><td>XX 4C+4D/H/S</td></tr>
 </table>
+
+## 双路stayman后的发展
+<table>
+    <tr><td>NORTH</td>  <td>SOUTH</td></tr>
+    <tr><td>1m</td>   <td>1M </td> </tr>
+    <tr><td>1NT</td>   <td>2C </td> </tr>
+    <tr><td>2D * 无条件</td>   <td>2M M5+ inv </td> </tr>
+    <tr><td>2NT* M配合，反邀请以上，问叫<br/> 3m 13-14，5张套加配合 <br/> 3阶其余花色* 该花色无废点，13-14 </td>   <td> </td> </tr>
+</table>
+
+<table>
+    <tr><td>NORTH</td>  <td>SOUTH</td></tr>
+    <tr><td>1m</td>   <td>1M </td> </tr>
+    <tr><td>1NT</td>   <td>2C </td> </tr>
+    <tr><td>2D * 无条件</td>   <td>2M M5+ inv </td> </tr>
+    <tr><td>2NT* M配合，反邀请以上，问叫</td>   <td>3C/D 实力差牌型好，排除性 <br/> 3M 实力好牌型差 </td> </tr>
+</table>
