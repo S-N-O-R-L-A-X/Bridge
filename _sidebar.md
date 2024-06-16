@@ -31,4 +31,10 @@
   - [2023-06-07](training/2023-06-07.md)
   - [2023-06-11](training/2023-06-11.md)
 
+- 新睿
+  - declare
+    - [2024-03-26](xinrui/declare/2024-03-26/一牌多解的6C.md)
+  - defence
+    - [2023-10-07](xinrui/defence/2023-10-07b8/2023-10-07b8.md)
+
 - [13P](https://s-n-o-r-l-a-x.github.io/13p-backup/)
