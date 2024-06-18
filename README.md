@@ -23,6 +23,3 @@ The repo will record something related with Bridge, including Bridge Master 2000
 <div class="marquee">
 逃跑退赛其疾如风 四明分析其徐如林 批评队友侵略如火 搭档有难不动如山 描述牌型难知如阴 坑人摔牌动如雷震
 </div>
-
----
-:bulb: If you find that you cannot comment here, try using VPN. 
