@@ -1,3 +1,14 @@
+- [傀儡stayman](#傀儡stayman)
+- [多功能2D后的示强](#多功能2d后的示强)
+- [1NT后被指示性首攻X](#1nt后被指示性首攻x)
+- [1NT 改良低花stayman](#1nt-改良低花stayman)
+- [二阶阻击叫的争叫](#二阶阻击叫的争叫)
+- [缺门关键张问叫](#缺门关键张问叫)
+- [1NT后的逃叫](#1nt后的逃叫)
+- [双套牌的牺牲与否](#双套牌的牺牲与否)
+- [双路stayman后的发展](#双路stayman后的发展)
+- [1m 2NT后的发展](#1m-2nt后的发展)
+
 ## 傀儡stayman
 <table>
     <tr><td>NORTH</td>  <td>SOUTH</td></tr>
@@ -23,8 +34,8 @@
     <tr><td>NORTH</td>  <td>SOUTH</td></tr>
     <tr><td>2D* 多功能</td>   <td>2H* 等叫</td> </tr>
     <tr><td>2NT 强均型</td>   <td>3C* 问叫</td> </tr>
-    <tr><td>3D 有4张M</td>   <td>3H 等叫<br/>3S H4<br/>3NT<br/>4C/D 4S+5C/D<br/>4H<br/></td> </tr>
-    <tr><td>3S S4<br/>3NT H4</td>   <td></td> </tr>
+    <tr><td>3D 有4张M</td>   <td>3H* 等叫</td> </tr>
+    <tr><td>3S S4 可能有4张H<br/>3NT H4</td>   <td></td> </tr>
 </table>
 
 ## 多功能2D后的示强
@@ -239,4 +250,17 @@
     <tr><td>1NT</td>   <td>2C </td> </tr>
     <tr><td>2D * 无条件</td>   <td>2M M5+ inv </td> </tr>
     <tr><td>2NT* M配合，反邀请以上，问叫</td>   <td>3C/D 实力差牌型好，排除性 <br/> 3M 实力好牌型差 </td> </tr>
+</table>
+
+## 1m 2NT后的发展
+<table>
+    <tr><td>NORTH</td>  <td>SOUTH</td></tr>
+    <tr><td>1C</td>   <td>1M </td> </tr>
+    <tr><td>2NT</td>   <td>3C C5+ <br/> 3D 问叫</td> </tr>
+</table>
+
+<table>
+    <tr><td>NORTH</td>  <td>SOUTH</td></tr>
+    <tr><td>1D</td>   <td>1M </td> </tr>
+    <tr><td>2NT</td>   <td>3C 问叫 <br/> 3D D4+</td> </tr>
 </table>
