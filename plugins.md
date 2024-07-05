@@ -7,7 +7,8 @@
 - [1NT后的逃叫](#1nt后的逃叫)
 - [双套牌的牺牲与否](#双套牌的牺牲与否)
 - [双路stayman后的发展](#双路stayman后的发展)
-- [1m 2NT后的发展](#1m-2nt后的发展)
+- [gazzili](#gazzili)
+- [\[wip\]1m 2NT后的发展](#wip1m-2nt后的发展)
 
 ## 傀儡stayman
 <table>
@@ -252,7 +253,137 @@
     <tr><td>2NT* M配合，反邀请以上，问叫</td>   <td>3C/D 实力差牌型好，排除性 <br/> 3M 实力好牌型差 </td> </tr>
 </table>
 
-## 1m 2NT后的发展
+## gazzili
+
+总结：
+1. 2C后第一声：
+- 2阶低于将牌花色=转移
+- 直接叫将牌花色=8-10，2张支持
+- 2NT,3C,3D都是邀请以下（直接3阶是邀叫吗？）
+2. 转移到同伴花色以后再 2NT = 自然邀请，3C=C5+邀请，3D=55m邀请
+
+
+1H开叫后
+
+2C后第一声
+<table>
+    <tr><td>NORTH</td>  <td>SOUTH</td></tr>
+    <tr><td>1H</td>   <td>1NT </td> </tr>
+    <tr><td>2C*</td>   <td>2D* 转移H <br/> 2H 2H,8-10 <br/> 2S ? <br/> 2NT 55m,5-9<br/> 3C 5+C,5-9 <br/> 3D 6+D,5-9 </td> </tr>
+</table>
+
+转移后的第一声
+<table>
+    <tr><td>NORTH</td>  <td>SOUTH</td></tr>
+    <tr><td>1H</td>   <td>1NT </td> </tr>
+    <tr><td>2C*</td>   <td>2D* 转移H </td> </tr>
+    <tr><td>2H 非高限牌 <br/> 2S ? <br/> 2NT 5-4高限 <br/> 3C H6C4,19-21 <br/> 3D H6D4,19-21<br/> 3H H6C4,16-18</td>   <td> </td> </tr>
+</table>
+
+接受转移的发展
+<table>
+    <tr><td>NORTH</td>  <td>SOUTH</td></tr>
+    <tr><td>1H</td>   <td>1NT </td> </tr>
+    <tr><td>2C*</td>   <td>2D* 转移H </td> </tr>
+    <tr><td>2H 非高限牌</td>   <td> 2S ? <br/> 2NT 自然邀请 <br/> 3C C5+,10-11 <br/> 3D 55m,10-11<br/> 3H H3+,10-11<br/> </td> </tr>
+</table>
+
+直接2NT显示5-4高限后的发展
+<table>
+    <tr><td>NORTH</td>  <td>SOUTH</td></tr>
+    <tr><td>1H</td>   <td>1NT </td> </tr>
+    <tr><td>2C*</td>   <td>2D* 转移H </td> </tr>
+    <tr><td>2NT 5-4高限 </td>   <td> 3C 问叫 <br/>3D* C5+,10-11<br/> 3H H3+,inv<br/>3S 55m,10-11<br/> </td> </tr>
+</table>
+
+<table>
+    <tr><td>NORTH</td>  <td>SOUTH</td></tr>
+    <tr><td>1H</td>   <td>1NT </td> </tr>
+    <tr><td>2C*</td>   <td>2D </td> </tr>
+    <tr><td>2NT 5-4高限 </td>   <td> 3C 问叫 </td> </tr>
+    <tr><td>3D D4<br/> 3H C4<br/>3S ?<br/> </td>   <td>之后4阶新花色均为该花色配合的扣叫</td> </tr>
+</table>
+
+直接2NT显示55低花弱牌后的发展
+<table>
+    <tr><td>NORTH</td>  <td>SOUTH</td></tr>
+    <tr><td>1H</td>   <td>1NT </td> </tr>
+    <tr><td>2C*</td>   <td>2NT 55m,5-9</td> </tr>
+    <tr><td>3C/3D 止叫 <br/> 3H 至少有一门低花配合,16-18<br/>3S 高限，至少有一门低花配合 <br/> 3NT 止叫</td> <td> </td> </tr>
+</table>
+
+<table>
+    <tr><td>NORTH</td>  <td>SOUTH</td></tr>
+    <tr><td>1H</td>   <td>1NT </td> </tr>
+    <tr><td>2C*</td>   <td>2NT 55m,5-9</td> </tr>
+    <tr><td>3H* 至少有一门低花配合,15-18</td> <td> 3S FG，S无止 （同伴4低花是定将）  <br/> 3NT FG，S有止 <br/>4C 4阶低花示选止叫 <br/></td> </tr>
+</table>
+
+1S开叫后的发展
+2C后第一声
+<table>
+    <tr><td>NORTH</td>  <td>SOUTH</td></tr>
+    <tr><td>1S</td>   <td>1NT </td> </tr>
+    <tr><td>2C*</td>   <td>2D* H5+ <br/> 2H 转移S <br/> 2S 2S,8-10 <br/> 2NT 55m,5-9<br/> 3C 5+C,5-9 <br/> 3D 6+D,5-9 </td> </tr>
+</table>
+
+转移H后的发展
+<table>
+    <tr><td>NORTH</td>  <td>SOUTH</td></tr>
+    <tr><td>1S</td>   <td>1NT </td> </tr>
+    <tr><td>2C*</td>   <td>2D* H5+ </td> </tr>
+    <tr><td>2H 12-14 <br/> 2S 12-14,S6+/H<=1 <br/> 2NT 15-18<br/> 3C 4+C,19-21 <br/> 3D 4+D,19-21<br/> 3H 3+H,inv <br/> 3S 3+H,inv<br/> 3NT 19-21,4+H <br/> 4C/D 4+H,19-21,C/D SPLT<br/> 4H 19-21,5323/5332;16-18,5314/5341<br/> </td>   <td></td> </tr>
+</table>
+
+转移后的第一声
+<table>
+    <tr><td>NORTH</td>  <td>SOUTH</td></tr>
+    <tr><td>1S</td>   <td>1NT </td> </tr>
+    <tr><td>2C*</td>   <td>2H* 转移S </td> </tr>
+    <tr><td>2S 非高限牌</td>   <td> 2NT 自然邀请 <br/> 3C S6C4,19-21 <br/> 3D S6D4,19-21<br/> 3H S6H4,19-21<br/>3S S6C4,inv<br/> 3NT,5332/5323,19-21 </td> </tr>
+</table>
+
+接受转移的发展
+<table>
+    <tr><td>NORTH</td>  <td>SOUTH</td></tr>
+    <tr><td>1S</td>   <td>1NT </td> </tr>
+    <tr><td>2C*</td>   <td>2H* 转移S </td> </tr>
+    <tr><td>2S 非高限牌</td>   <td> 2NT 自然邀请 <br/> 3C C5+,10-11 <br/> 3D 55m,10-11<br/> 3H ?<br/> 3S S3+,10-11</td> </tr>
+</table>
+
+直接2NT显示5-4高限后的发展
+<table>
+    <tr><td>NORTH</td>  <td>SOUTH</td></tr>
+    <tr><td>1S</td>   <td>1NT </td> </tr>
+    <tr><td>2C*</td>   <td>2H* 转移S </td> </tr>
+    <tr><td>2NT 5-4高限 </td>   <td> 3C 问叫 <br/>3D* C5+,10-11<br/> 3H 55m,inv<br/>3S S3+,10-11<br/> </td> </tr>
+</table>
+
+<table>
+    <tr><td>NORTH</td>  <td>SOUTH</td></tr>
+    <tr><td>1S</td>   <td>1NT </td> </tr>
+    <tr><td>2C*</td>   <td>2H* 转移S </td> </tr>
+    <tr><td>2NT 5-4高限 </td>   <td> 3C 问叫 </td> </tr>
+    <tr><td>3D D4<br/> 3H H4<br/>3S C4<br/> </td>   <td>之后4阶新花色均为该花色配合的扣叫</td> </tr>
+</table>
+
+直接2NT显示55低花弱牌后的发展
+<table>
+    <tr><td>NORTH</td>  <td>SOUTH</td></tr>
+    <tr><td>1S</td>   <td>1NT </td> </tr>
+    <tr><td>2C*</td>   <td>2NT 55m,5-9</td> </tr>
+    <tr><td>3C/3D 止叫 <br/> 3H 至少有一门低花配合,16-18<br/>3S 高限，至少有一门低花配合 <br/> 3NT 止叫</td> <td> </td> </tr>
+</table>
+
+<table>
+    <tr><td>NORTH</td>  <td>SOUTH</td></tr>
+    <tr><td>1S</td>   <td>1NT </td> </tr>
+    <tr><td>2C*</td>   <td>2NT 55m,5-9</td> </tr>
+    <tr><td>3H* 至少有一门低花配合,15-18</td> <td> 3S FG，H无止 （同伴4低花是定将）  <br/> 3NT FG，H有止 <br/>4C 4阶低花示选止叫 <br/></td> </tr>
+</table>
+
+
+## [wip]1m 2NT后的发展
 <table>
     <tr><td>NORTH</td>  <td>SOUTH</td></tr>
     <tr><td>1C</td>   <td>1M </td> </tr>
