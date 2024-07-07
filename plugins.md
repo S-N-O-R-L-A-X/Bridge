@@ -36,7 +36,7 @@
     <tr><td>2D* 多功能</td>   <td>2H* 等叫</td> </tr>
     <tr><td>2NT 强均型</td>   <td>3C* 问叫</td> </tr>
     <tr><td>3D 有4张M</td>   <td>3H* 等叫</td> </tr>
-    <tr><td>3S S4 可能有4张H<br/>3NT H4</td>   <td></td> </tr>
+    <tr><td>3S S4,可能有4张H<br/>3NT H4</td>   <td></td> </tr>
 </table>
 
 ## 多功能2D后的示强
@@ -146,20 +146,35 @@
 
 <table class="bid">
     <tr><td>NORTH</td>  <td>SOUTH</td></tr>
-    <tr><td>1NT</td>   <td>3D 5C4D 满贯兴趣 <br/>3H 5D4C 满贯兴趣<br/>3S 55m FG</td> </tr>
+    <tr><td>1NT</td>   <td>3D 5C4D,13+,满贯兴趣 <br/>3H 5D4C,13+,满贯兴趣<br/>3S 55m,3NT/5m示选</td> </tr>
+</table>
+
+<table class="bid">
+    <tr><td>NORTH</td>  <td>SOUTH</td></tr>
+    <tr><td>1NT</td>   <td>3D 5C4D,13+,满贯兴趣 </td> </tr>
+    <tr><td><br/>3H H无废点，至少有一门配合<br/>3S S无废点，至少有一门配合<br/>3NT 止叫 <br/>4C/D 定将</td>   <td></td> </tr>
+</table>
+
+<table class="bid">
+    <tr><td>NORTH</td>  <td>SOUTH</td></tr>
+    <tr><td>1NT</td>   <td>3H 5D4C,13+,满贯兴趣 </td> </tr>
+    <tr><td>3S 至少有一门高花无废点，至少有一门配合<br/>3NT 止叫 <br/>4C/D 定将</td>   <td></td> </tr>
 </table>
 
 <table class="bid">
     <tr><td>NORTH</td>  <td>SOUTH</td></tr>
     <tr><td>1NT</td>   <td>2S </td> </tr>
-    <tr><td>2NT</td>   <td>3C C inv<br/>3D D inv<br/>3H/3S 55m 单张满贯兴趣<br/>3NT toplay<br/>4C 6C5D<br/>4D 5C6D<br/>4H/S 55m 缺门</td> </tr>
+    <tr><td>2NT</td>   <td>3C C inv<br/>3D D inv<br/>3H/3S 55m,单缺,12+,满贯兴趣<br/>3NT toplay<br/>4C 6C5D<br/>4D 5C6D<br/>4H/S 55m,13+,双花色缺门问叫</td> </tr>
 </table>
 
 <table class="bid">
     <tr><td>NORTH</td>  <td>SOUTH</td></tr>
     <tr><td>1NT</td>   <td>2S </td> </tr>
-    <tr><td>3C</td>   <td>3D m inv<br/>3H/S  55m  单张满贯兴趣<br/>3NT toplay<br/>4C 6C5D<br/>4D 5C6D<br/>4H/S 55m 缺门 </td> </tr>
+    <tr><td>3C</td>   <td>3D m inv<br/>3H/S 55m,单缺,12+,满贯兴趣<br/>3NT toplay<br/>4C 6C5D<br/>4D 5C6D<br/>4H/S 55m,双花色缺门问叫 </td> </tr>
 </table>
+
+双花色缺门问叫：共有五个关键张，两门花色的AK，以及非缺门花色的A。
+答叫： 14/03/2无Q/2+Q/2+2Q
 
 ## 二阶阻击叫的争叫
 <table class="bid">
