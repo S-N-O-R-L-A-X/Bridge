@@ -334,7 +334,15 @@
     <tr><td>NORTH</td>  <td>SOUTH</td></tr>
     <tr><td>1S</td>   <td>1NT </td> </tr>
     <tr><td>2C*</td>   <td>2D* H5+ </td> </tr>
-    <tr><td>2H 12-14 <br/> 2S 12-14,S6+/H<=1 <br/> 2NT 15-18<br/> 3C 4+C,19-21 <br/> 3D 4+D,19-21<br/> 3H 3+H,inv <br/> 3S 3+H,inv<br/> 3NT 19-21,4+H <br/> 4C/D 4+H,19-21,C/D SPLT<br/> 4H 19-21,5323/5332;16-18,5314/5341<br/> </td>   <td></td> </tr>
+    <tr><td>2H 12-15 <br/> 2S 12-15,S6+/H<=1 <br/> 2NT 15-18,H不配合<br/> 3C 4+C,19-21 <br/> 3D 4+D,19-21<br/> 3H 3+H,15-18 <br/> 3S 6S4C,16-18<br/> 3NT 19-21,4+H <br/> 4C/D 4+H,19-21,C/D SPLT<br/> 4H 19-21,5323/5332;16-18,5314/5341<br/> </td>   <td></td> </tr>
+</table>
+
+转移H后开叫人显示15-18后的发展
+<table class="bid">
+    <tr><td>NORTH</td>  <td>SOUTH</td></tr>
+    <tr><td>1S</td>   <td>1NT </td> </tr>
+    <tr><td>2C*</td>   <td>2D* H5+ </td> </tr>
+    <tr><td>2NT 15-18,H不配合  </td>   <td> Pass 止叫<br/> 3C 4+C,5-7 <br/> 3D 5H5D,5-7<br/> 3H H单套，弱牌 <br/> 3S 5H5C,FG<br/> 3NT 止叫 <br/> 4C <br/></td> </tr>
 </table>
 
 转移后的第一声
