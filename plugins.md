@@ -1,15 +1,53 @@
 - [傀儡stayman](#傀儡stayman)
 - [多功能2D后的示强](#多功能2d后的示强)
 - [1NT后被指示性首攻X](#1nt后被指示性首攻x)
+  - [2C被X](#2c被x)
+    - [2C被X pass后的发展](#2c被x-pass后的发展)
+    - [2C被X XX后的发展](#2c被x-xx后的发展)
+  - [2D被X](#2d被x)
+  - [2H被X](#2h被x)
+  - [2S被X](#2s被x)
+    - [2S被X pass后的发展](#2s被x-pass后的发展)
+      - [2S被X pass后重询的发展](#2s被x-pass后重询的发展)
+    - [2S被X XX后的发展](#2s被x-xx后的发展)
+      - [2S被X XX后重询的发展](#2s被x-xx后重询的发展)
+    - [2S被X 2NT/3C后的发展](#2s被x-2nt3c后的发展)
 - [1NT 改良低花stayman](#1nt-改良低花stayman)
+  - [应叫人第一声](#应叫人第一声)
+    - [3D后的发展](#3d后的发展)
+    - [3H后的发展](#3h后的发展)
+  - [2S后回答2NT的发展](#2s后回答2nt的发展)
+  - [2S后回答3C的发展](#2s后回答3c的发展)
 - [二阶阻击叫的争叫](#二阶阻击叫的争叫)
 - [缺门关键张问叫](#缺门关键张问叫)
 - [1NT后的逃叫](#1nt后的逃叫)
 - [双套牌的牺牲与否](#双套牌的牺牲与否)
 - [双路stayman后的发展](#双路stayman后的发展)
 - [gazzili](#gazzili)
+  - [1H开叫后](#1h开叫后)
+    - [2C后第一声](#2c后第一声)
+      - [转移后的第一声](#转移后的第一声)
+        - [接受转移后的发展](#接受转移后的发展)
+        - [2NT显示5-4高限后的发展](#2nt显示5-4高限后的发展)
+      - [直接2NT显示55低花弱牌后的发展](#直接2nt显示55低花弱牌后的发展)
+        - [开叫人3H后的发展](#开叫人3h后的发展)
+  - [1S开叫后的发展](#1s开叫后的发展)
+    - [2C后第一声](#2c后第一声-1)
+      - [转移H后的发展](#转移h后的发展)
+        - [转移H后开叫人显示15-18后的发展](#转移h后开叫人显示15-18后的发展)
+      - [转移后的第一声](#转移后的第一声-1)
+        - [接受转移后的发展](#接受转移后的发展-1)
+        - [2NT显示5-4高限后的发展](#2nt显示5-4高限后的发展-1)
+      - [直接2NT显示55低花弱牌后的发展](#直接2nt显示55低花弱牌后的发展-1)
+        - [开叫人3H后的发展](#开叫人3h后的发展-1)
 - [\[wip\]1m 2NT后的发展](#wip1m-2nt后的发展)
 - [来本索尔](#来本索尔)
+  - [自然2H开叫后](#自然2h开叫后)
+    - [来本索尔后](#来本索尔后)
+      - [3C后](#3c后)
+  - [自然2S开叫后](#自然2s开叫后)
+    - [来本索尔后](#来本索尔后-1)
+      - [3C后](#3c后-1)
 
 ## 傀儡stayman
 <table class="bid">
@@ -68,6 +106,7 @@
 </table>
 
 ## 1NT后被指示性首攻X
+### 2C被X
 <table class="bid">
     <tr><td>WEST</td> <td>NORTH</td> <td>EAST</td> <td>SOUTH</td></tr>
     <tr><td></td> <td>1NT</td> <td>pass</td> <td>2C</td></tr>
@@ -79,6 +118,8 @@
     </td> <td></td> <td></td></tr>
 </table>
 
+#### 2C被X pass后的发展
+
 <table class="bid">
     <tr><td>WEST</td> <td>NORTH</td> <td>EAST</td> <td>SOUTH</td></tr>
     <tr><td></td> <td>1NT</td> <td>pass</td> <td>2C</td></tr>
@@ -89,6 +130,8 @@
     </td></tr>
 </table>
 
+#### 2C被X XX后的发展
+
 <table class="bid">
     <tr><td>WEST</td> <td>NORTH</td> <td>EAST</td> <td>SOUTH</td></tr>
     <tr><td></td> <td>1NT</td> <td>pass</td> <td>2C</td></tr>
@@ -98,6 +141,7 @@
     </td></tr>
 </table>
 
+### 2D被X
 
 <table class="bid">
     <tr><td>WEST</td> <td>NORTH</td> <td>EAST</td> <td>SOUTH</td></tr>
@@ -111,6 +155,8 @@
     </td> <td></td> <td></td></tr>
 </table>
 
+### 2H被X
+
 <table class="bid">
     <tr><td>WEST</td> <td>NORTH</td> <td>EAST</td> <td>SOUTH</td></tr>
     <tr><td></td> <td>1NT</td> <td>pass</td> <td>2H</td></tr>
@@ -123,6 +169,8 @@
     </td> <td></td> <td></td></tr>
 </table>
 
+### 2S被X
+
 <table class="bid">
     <tr><td>WEST</td> <td>NORTH</td> <td>EAST</td> <td>SOUTH</td></tr>
     <tr><td></td> <td>1NT</td> <td>pass</td> <td>2S</td></tr>
@@ -134,6 +182,8 @@
     </td> <td></td> <td></td></tr>
 </table>
 
+#### 2S被X pass后的发展
+
 <table class="bid">
     <tr><td>WEST</td> <td>NORTH</td> <td>EAST</td> <td>SOUTH</td></tr>
     <tr><td></td> <td>1NT</td> <td>pass</td> <td>2S</td></tr>
@@ -142,9 +192,11 @@
     </td> <td>pass</td> <td> 
         <div class="core-row"> <span> XX </span> <span> 重询 </span> </div> 
         <div class="core-row"> <span> 2NT </span> <span> 44+m重询 </span> </div> 
-        <div class="core-row"> <span> 3C/3D </span> <span> 5+ toplay </span> </div> 
+        <div class="core-row"> <span> 3C/3D/3H/3S/3NT </span> <span> 同未加倍 </span> </div> 
     </td></tr>
 </table>
+
+##### 2S被X pass后重询的发展
 
 <table class="bid">
     <tr><td>WEST</td> <td>NORTH</td> <td>EAST</td> <td>SOUTH</td></tr>
@@ -158,6 +210,8 @@
     </td> <td></td> <td></td></tr>
 </table>
 
+#### 2S被X XX后的发展
+
 <table class="bid">
     <tr><td>WEST</td> <td>NORTH</td> <td>EAST</td> <td>SOUTH</td></tr>
     <tr><td></td> <td>1NT</td> <td>pass</td> <td>2S</td></tr>
@@ -168,6 +222,8 @@
         <div class="core-row"> <span> 3C/3D/3H/3S/3NT... </span> <span> 同未加倍同伴叫2NT </span> </div> 
     </td></tr>
 </table>
+
+##### 2S被X XX后重询的发展
 
 <table class="bid">
     <tr><td>WEST</td> <td>NORTH</td> <td>EAST</td> <td>SOUTH</td></tr>
@@ -186,6 +242,8 @@
     </td> <td></td> <td></td></tr>
 </table>
 
+#### 2S被X 2NT/3C后的发展
+
 <table class="bid">
     <tr><td>WEST</td> <td>NORTH</td> <td>EAST</td> <td>SOUTH</td></tr>
     <tr><td></td> <td>1NT</td> <td>pass</td> <td>2S</td></tr>
@@ -197,7 +255,7 @@
 </table>
 
 ## 1NT 改良低花stayman
-
+### 应叫人第一声
 <table class="bid">
     <tr><td>NORTH</td>  <td>SOUTH</td></tr>
     <tr><td>1NT</td>   <td>
@@ -206,6 +264,8 @@
         <div class="core-row"> <span> 3S </span> <span> 55m,8-12,3NT/5m示选 </span> </div> 
     </td> </tr>
 </table>
+
+#### 3D后的发展
 
 <table class="bid">
     <tr><td>NORTH</td>  <td>SOUTH</td></tr>
@@ -219,6 +279,8 @@
     </td>   <td></td> </tr>
 </table>
 
+#### 3H后的发展
+
 <table class="bid">
     <tr><td>NORTH</td>  <td>SOUTH</td></tr>
     <tr><td>1NT</td>   <td>
@@ -231,6 +293,7 @@
     </td>   <td></td> </tr>
 </table>
 
+### 2S后回答2NT的发展
 <table class="bid">
     <tr><td>NORTH</td>  <td>SOUTH</td></tr>
     <tr><td>1NT</td>   <td>
@@ -240,12 +303,14 @@
         <div class="core-row"> <span> 3C </span> <span> C inv </span> </div> 
         <div class="core-row"> <span> 3D </span> <span> D inv </span> </div> 
         <div class="core-row"> <span> 3H/3S </span> <span> 55m,单缺,12+,满贯兴趣 </span> </div> 
-        <div class="core-row"> <span> 3NT </span> <span> toplay </span> </div> 
+        <div class="core-row"> <span> 3NT </span> <span> 14-15,44m </span> </div> 
         <div class="core-row"> <span> 4C </span> <span> 6C5D </span> </div> 
         <div class="core-row"> <span> 4D </span> <span> 5C6D </span> </div> 
         <div class="core-row"> <span> 4H/S </span> <span> 55m,13+,双花色缺门问叫 </span> </div> 
     </td> </tr>
 </table>
+
+### 2S后回答3C的发展
 
 <table class="bid">
     <tr><td>NORTH</td>  <td>SOUTH</td></tr>
@@ -258,7 +323,7 @@
         <div class="core-row"> <span> 3NT </span> <span> toplay </span> </div> 
         <div class="core-row"> <span> 4C </span> <span> 6C5D </span> </div> 
         <div class="core-row"> <span> 4D </span> <span> 5C6D </span> </div> 
-        <div class="core-row"> <span> 4H/S </span> <span> 55m,双花色缺门问叫 </span> </div> 
+        <div class="core-row"> <span> 4H/S </span> <span> 55m,13+,双花色缺门问叫 </span> </div> 
     </td> </tr>
 </table>
 
@@ -430,16 +495,16 @@
 3. 对于开叫方，面对同伴转移到自己花色直接叫2NT表示54高限，低于将牌花色的3阶都是64高限，将牌花色3阶是64中限
 
 
-1H开叫后
+### 1H开叫后
 
-2C后第一声
+#### 2C后第一声
 <table class="bid">
     <tr><td>NORTH</td>  <td>SOUTH</td></tr>
     <tr><td>1H</td>   <td>1NT </td> </tr>
     <tr><td>2C*</td>   <td> <div class="core-row"><span>2D*</span> <span> 转移H</span> </div> <div class="core-row"> <span> 2H </span> <span>2H,8-10</span> </div> <div class="core-row"> <span> 2S</span> <span> ?</span> </div><div class="core-row"> <span>2NT</span> <span> 55m,5-9 </span></div> <div class="core-row"> <span>3C</span> <span> 5+C,8-9</span> </div> <div class="core-row"> <span>3D </span> <span> 6+D,6-9 </span> </div> </td> </tr>
 </table>
 
-转移后的第一声
+##### 转移后的第一声
 <table class="bid">
     <tr><td>NORTH</td>  <td>SOUTH</td></tr>
     <tr><td>1H</td>   <td>1NT </td> </tr>
@@ -456,7 +521,7 @@
     <td></td> </tr>
 </table>
 
-接受转移的发展
+###### 接受转移后的发展
 <table class="bid">
     <tr><td>NORTH</td>  <td>SOUTH</td></tr>
     <tr><td>1H</td>   <td>1NT </td> </tr>
@@ -471,7 +536,7 @@
     </td> </tr>
 </table>
 
-直接2NT显示5-4高限后的发展
+###### 2NT显示5-4高限后的发展
 <table class="bid">
     <tr><td>NORTH</td>  <td>SOUTH</td></tr>
     <tr><td>1H</td>   <td>1NT </td> </tr>
@@ -485,6 +550,7 @@
     </td> </tr>
 </table>
 
+2NT显示5-4高限后的问叫
 <table class="bid">
     <tr><td>NORTH</td>  <td>SOUTH</td></tr>
     <tr><td>1H</td>   <td>1NT </td> </tr>
@@ -493,13 +559,14 @@
     <tr> <td> 
         <div class="core-row"> <span> 3D </span> <span> D4 </span> </div>
         <div class="core-row"> <span> 3H </span> <span> C4 </span> </div>
-        <div class="core-row"> <span> 3S </span> <span> ? </span> </div>
+        <div class="core-row"> <span> 3S </span> <span> 1534 </span> </div>
+        <div class="core-row"> <span> 3NT </span> <span> 1543 </span> </div>
     </td>
     <td>之后4阶新花色均为该花色配合的扣叫</td>
      </tr>
 </table>
 
-直接2NT显示55低花弱牌后的发展
+##### 直接2NT显示55低花弱牌后的发展
 <table class="bid">
     <tr><td>NORTH</td>  <td>SOUTH</td></tr>
     <tr><td>1H</td>   <td>1NT </td> </tr>
@@ -513,6 +580,7 @@
     </td> <td> </td> </tr>
 </table>
 
+###### 开叫人3H后的发展
 <table class="bid">
     <tr><td>NORTH</td>  <td>SOUTH</td></tr>
     <tr><td>1H</td>   <td>1NT </td> </tr>
@@ -524,9 +592,9 @@
     </td> </tr>
 </table>
 
-1S开叫后的发展
+### 1S开叫后的发展
 
-2C后第一声
+#### 2C后第一声
 <table class="bid">
     <tr><td>NORTH</td>  <td>SOUTH</td></tr>
     <tr><td>1S</td>   <td>1NT </td> </tr>
@@ -540,7 +608,7 @@
     </td> </tr>
 </table>
 
-转移H后的发展
+##### 转移H后的发展
 <table class="bid">
     <tr><td>NORTH</td>  <td>SOUTH</td></tr>
     <tr><td>1S</td>   <td>1NT </td> </tr>
@@ -559,7 +627,7 @@
     </td>   <td></td> </tr>
 </table>
 
-转移H后开叫人显示15-18后的发展
+###### 转移H后开叫人显示15-18后的发展
 <table class="bid">
     <tr><td>NORTH</td>  <td>SOUTH</td></tr>
     <tr><td>1S</td>   <td>1NT </td> </tr>
@@ -575,7 +643,7 @@
     </td> </tr>
 </table>
 
-转移后的第一声
+##### 转移后的第一声
 <table class="bid">
     <tr><td>NORTH</td>  <td>SOUTH</td></tr>
     <tr><td>1S</td>   <td>1NT </td> </tr>
@@ -592,7 +660,7 @@
     </td> </tr>
 </table>
 
-接受转移的发展
+###### 接受转移后的发展
 <table class="bid">
     <tr><td>NORTH</td>  <td>SOUTH</td></tr>
     <tr><td>1S</td>   <td>1NT </td> </tr>
@@ -606,7 +674,7 @@
     </td> </tr>
 </table>
 
-直接2NT显示5-4高限后的发展
+###### 2NT显示5-4高限后的发展
 <table class="bid">
     <tr><td>NORTH</td>  <td>SOUTH</td></tr>
     <tr><td>1S</td>   <td>1NT </td> </tr>
@@ -632,7 +700,7 @@
     </td>   <td> 之后4阶新花色均为该花色配合的扣叫 </td> </tr>
 </table>
 
-直接2NT显示55低花弱牌后的发展
+##### 直接2NT显示55低花弱牌后的发展
 <table class="bid">
     <tr><td>NORTH</td>  <td>SOUTH</td></tr>
     <tr><td>1S</td>   <td>1NT </td> </tr>
@@ -646,6 +714,7 @@
     </td> <td> </td> </tr>
 </table>
 
+###### 开叫人3H后的发展
 <table class="bid">
     <tr><td>NORTH</td>  <td>SOUTH</td></tr>
     <tr><td>1S</td>   <td>1NT </td> </tr>
@@ -675,7 +744,7 @@
 总结
 1. 直接扣叫 = FG，没挡没四张另一高花；2NT后扣叫=FG，有挡没四张另一高花；2NT后叫另一高花=FG，无挡有高花；2NT后叫3NT=FG有挡有高花。
 
-自然2H开叫后
+### 自然2H开叫后
 <table class="bid">
     <tr><td>WEST</td> <td>NORTH</td> <td>EAST</td> <td>SOUTH</td></tr>
     <tr><td><div class="core-row"> <span> 2H </span> <span> 自然 </span> </div> </td> <td>X</td> <td>pass</td> <td>
@@ -689,7 +758,7 @@
     </td></tr>
 </table>
 
-来本索尔后
+#### 来本索尔后
 <table class="bid">
     <tr><td>WEST</td> <td>NORTH</td> <td>EAST</td> <td>SOUTH</td></tr>
     <tr><td><div class="core-row"> <span> 2H </span> <span> 自然 </span> </div> </td> <td>X</td> <td>pass</td> <td><div class="core-row"> <span> 2NT </span> <span> lebonsohl </span> </div></td></tr>
@@ -702,7 +771,7 @@
     </td> <td></td> <td></td></tr>
 </table>
 
-3C后
+##### 3C后
 <table class="bid">
     <tr><td>WEST</td> <td>NORTH</td> <td>EAST</td> <td>SOUTH</td></tr>
     <tr><td><div class="core-row"> <span> 2H </span> <span> 自然 </span> </div> </td> <td>X</td> <td>pass</td> <td><div class="core-row"> <span> 2NT </span> <span> lebonsohl </span> </div></td></tr>
@@ -718,7 +787,7 @@
 </table>
 
 
-自然2S开叫后
+### 自然2S开叫后
 <table class="bid">
     <tr><td>WEST</td> <td>NORTH</td> <td>EAST</td> <td>SOUTH</td></tr>
     <tr><td><div class="core-row"> <span> 2S </span> <span> 自然 </span> </div> </td> <td>X</td> <td>pass</td> <td>
@@ -731,7 +800,7 @@
     </td></tr>
 </table>
 
-来本索尔后
+#### 来本索尔后
 <table class="bid">
     <tr><td>WEST</td> <td>NORTH</td> <td>EAST</td> <td>SOUTH</td></tr>
     <tr><td><div class="core-row"> <span> 2S </span> <span> 自然 </span> </div> </td> <td>X</td> <td>pass</td> <td><div class="core-row"> <span> 2NT </span> <span> lebonsohl </span> </div></td></tr>
@@ -744,7 +813,7 @@
     </td> <td></td> <td></td></tr>
 </table>
 
-3C后
+##### 3C后
 <table class="bid">
     <tr><td>WEST</td> <td>NORTH</td> <td>EAST</td> <td>SOUTH</td></tr>
     <tr><td><div class="core-row"> <span> 2S </span> <span> 自然 </span> </div> </td> <td>X</td> <td>pass</td> <td><div class="core-row"> <span> 2NT </span> <span> lebonsohl </span> </div></td></tr>
