@@ -9,6 +9,7 @@
 - [双路stayman后的发展](#双路stayman后的发展)
 - [gazzili](#gazzili)
 - [\[wip\]1m 2NT后的发展](#wip1m-2nt后的发展)
+- [来本索尔](#来本索尔)
 
 ## 傀儡stayman
 <table class="bid">
@@ -665,4 +666,89 @@
     <tr><td>NORTH</td>  <td>SOUTH</td></tr>
     <tr><td>1D</td>   <td>1M </td> </tr>
     <tr><td>2NT</td>   <td>3C 问叫 <br/> 3D D4+</td> </tr>
+</table>
+
+## 来本索尔
+自然2H开叫后
+<table class="bid">
+    <tr><td>WEST</td> <td>NORTH</td> <td>EAST</td> <td>SOUTH</td></tr>
+    <tr><td><div class="core-row"> <span> 2H </span> <span> 自然 </span> </div> </td> <td>X</td> <td>pass</td> <td>
+        <div class="core-row"> <span> 2S </span> <span> 0-7,4S </span> </div>
+        <div class="core-row"> <span> 2NT </span> <span> lebonsohl </span> </div>
+        <div class="core-row"> <span> 3C </span> <span> 8-10,C4+ </span> </div>
+        <div class="core-row"> <span> 3D </span> <span> 8-10,D4+ </span> </div>
+        <div class="core-row"> <span> 3H </span> <span> 11+，无挡 </span> </div>
+        <div class="core-row"> <span> 3S </span> <span> 8-10,S4+ </span> </div>
+        <div class="core-row"> <span> 3NT </span> <span> Toplay </span> </div>
+    </td></tr>
+</table>
+
+来本索尔后
+<table class="bid">
+    <tr><td>WEST</td> <td>NORTH</td> <td>EAST</td> <td>SOUTH</td></tr>
+    <tr><td><div class="core-row"> <span> 2H </span> <span> 自然 </span> </div> </td> <td>X</td> <td>pass</td> <td><div class="core-row"> <span> 2NT </span> <span> lebonsohl </span> </div></td></tr>
+    <tr><td>pass</td> <td>        
+        <div class="core-row"> <span> 3C </span> <span> 17-</span> </div>
+        <div class="core-row"> <span> 3D </span> <span> 17+,5+D </span> </div>
+        <div class="core-row"> <span> 3H </span> <span> 17+,5+C </span> </div>
+        <div class="core-row"> <span> 3S </span> <span> 17+，5+S </span> </div>
+        <div class="core-row"> <span> 3NT </span> <span> 20+，强均型 </span> </div>
+    </td> <td></td> <td></td></tr>
+</table>
+
+3C后
+<table class="bid">
+    <tr><td>WEST</td> <td>NORTH</td> <td>EAST</td> <td>SOUTH</td></tr>
+    <tr><td><div class="core-row"> <span> 2H </span> <span> 自然 </span> </div> </td> <td>X</td> <td>pass</td> <td><div class="core-row"> <span> 2NT </span> <span> lebonsohl </span> </div></td></tr>
+    <tr><td>  pass </td><td><div class="core-row"> <span> 3C </span> <span> 17-</span> </div> </td> <td>pass
+    </td> 
+    <td>        
+        <div class="core-row"> <span> 3D </span> <span> 0-8,4+D </span> </div>
+        <div class="core-row"> <span> 3H </span> <span> 11+,H有挡 </span> </div>
+        <div class="core-row"> <span> 3S </span> <span> 11+,S5+ </span> </div>
+        <div class="core-row"> <span> 3NT </span> <span> ? </span> </div>
+    </td>
+</tr>
+</table>
+
+
+自然2S开叫后
+<table class="bid">
+    <tr><td>WEST</td> <td>NORTH</td> <td>EAST</td> <td>SOUTH</td></tr>
+    <tr><td><div class="core-row"> <span> 2S </span> <span> 自然 </span> </div> </td> <td>X</td> <td>pass</td> <td>
+        <div class="core-row"> <span> 2NT </span> <span> lebonsohl </span> </div>
+        <div class="core-row"> <span> 3C </span> <span> 8-10,C4+ </span> </div>
+        <div class="core-row"> <span> 3D </span> <span> 8-10,D4+ </span> </div>
+        <div class="core-row"> <span> 3H </span> <span> 8-10,H4+ </span> </div>
+        <div class="core-row"> <span> 3S </span> <span> 11+，无挡 </span> </div>
+        <div class="core-row"> <span> 3NT </span> <span> Toplay </span> </div>
+    </td></tr>
+</table>
+
+来本索尔后
+<table class="bid">
+    <tr><td>WEST</td> <td>NORTH</td> <td>EAST</td> <td>SOUTH</td></tr>
+    <tr><td><div class="core-row"> <span> 2S </span> <span> 自然 </span> </div> </td> <td>X</td> <td>pass</td> <td><div class="core-row"> <span> 2NT </span> <span> lebonsohl </span> </div></td></tr>
+    <tr><td>pass</td> <td>        
+        <div class="core-row"> <span> 3C </span> <span> 17-</span> </div>
+        <div class="core-row"> <span> 3D </span> <span> 17+,5+D </span> </div>
+        <div class="core-row"> <span> 3H </span> <span> 17+,5+H </span> </div>
+        <div class="core-row"> <span> 3S </span> <span> 17+，5+C </span> </div>
+        <div class="core-row"> <span> 3NT </span> <span> 20+ </span> </div>
+    </td> <td></td> <td></td></tr>
+</table>
+
+3C后
+<table class="bid">
+    <tr><td>WEST</td> <td>NORTH</td> <td>EAST</td> <td>SOUTH</td></tr>
+    <tr><td><div class="core-row"> <span> 2S </span> <span> 自然 </span> </div> </td> <td>X</td> <td>pass</td> <td><div class="core-row"> <span> 2NT </span> <span> lebonsohl </span> </div></td></tr>
+    <tr><td>  pass </td><td><div class="core-row"> <span> 3C </span> <span> 17-</span> </div> </td> <td>pass
+    </td> 
+    <td>        
+        <div class="core-row"> <span> 3D </span> <span> 0-8,4+D </span> </div>
+        <div class="core-row"> <span> 3H </span> <span> 11+,H5+ </span> </div>
+        <div class="core-row"> <span> 3S </span> <span> 11+,S有挡 </span> </div>
+        <div class="core-row"> <span> 3NT </span> <span> ? </span> </div>
+    </td>
+</tr>
 </table>
