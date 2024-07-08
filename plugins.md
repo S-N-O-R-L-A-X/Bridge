@@ -580,13 +580,15 @@
     <tr><td>NORTH</td>  <td>SOUTH</td></tr>
     <tr><td>1S</td>   <td>1NT </td> </tr>
     <tr><td>2C*</td>   <td> <div class="core-row"><span>2H*</span> <span> 转移S </span> </div> </td> </tr>
-    <tr><td> <div class="core-row"><span>2S</span> <span> 非高限牌 </span> </div> </td>   <td> 
-        <div class="core-row"><span>2NT</span> <span> 自然邀请 </span> </div> 
+    <tr><td> 
+        <div class="core-row"><span>2S</span> <span> 非高限牌 </span> </div> 
+        <div class="core-row"><span>2NT</span> <span> 5-4高限 </span> </div>
         <div class="core-row"><span>3C</span> <span> S6C4,19-21 </span> </div> 
         <div class="core-row"><span>3D</span> <span> S6D4,19-21 </span> </div> 
         <div class="core-row"><span>3H</span> <span> S6H4,19-21 </span> </div> 
         <div class="core-row"><span>3S</span> <span> S6C4,16-18 </span> </div> 
         <div class="core-row"><span>3NT</span> <span> 5332/5323,19-21 </span> </div> 
+    </td>   <td> 
     </td> </tr>
 </table>
 
@@ -669,6 +671,10 @@
 </table>
 
 ## 来本索尔
+
+总结
+1. 直接扣叫 = FG，没挡没四张另一高花；2NT后扣叫=FG，有挡没四张另一高花；2NT后叫另一高花=FG，无挡有高花；2NT后叫3NT=FG有挡有高花。
+
 自然2H开叫后
 <table class="bid">
     <tr><td>WEST</td> <td>NORTH</td> <td>EAST</td> <td>SOUTH</td></tr>
@@ -677,7 +683,7 @@
         <div class="core-row"> <span> 2NT </span> <span> lebonsohl </span> </div>
         <div class="core-row"> <span> 3C </span> <span> 8-10,C4+ </span> </div>
         <div class="core-row"> <span> 3D </span> <span> 8-10,D4+ </span> </div>
-        <div class="core-row"> <span> 3H </span> <span> 11+，无挡 </span> </div>
+        <div class="core-row"> <span> 3H </span> <span> 11+,无挡无4张H </span> </div>
         <div class="core-row"> <span> 3S </span> <span> 8-10,S4+ </span> </div>
         <div class="core-row"> <span> 3NT </span> <span> Toplay </span> </div>
     </td></tr>
@@ -691,8 +697,8 @@
         <div class="core-row"> <span> 3C </span> <span> 17-</span> </div>
         <div class="core-row"> <span> 3D </span> <span> 17+,5+D </span> </div>
         <div class="core-row"> <span> 3H </span> <span> 17+,5+C </span> </div>
-        <div class="core-row"> <span> 3S </span> <span> 17+，5+S </span> </div>
-        <div class="core-row"> <span> 3NT </span> <span> 20+，强均型 </span> </div>
+        <div class="core-row"> <span> 3S </span> <span> 17+,5+S </span> </div>
+        <div class="core-row"> <span> 3NT </span> <span> 20+,强均型 </span> </div>
     </td> <td></td> <td></td></tr>
 </table>
 
@@ -705,8 +711,8 @@
     <td>        
         <div class="core-row"> <span> 3D </span> <span> 0-8,4+D </span> </div>
         <div class="core-row"> <span> 3H </span> <span> 11+,H有挡 </span> </div>
-        <div class="core-row"> <span> 3S </span> <span> 11+,S5+ </span> </div>
-        <div class="core-row"> <span> 3NT </span> <span> ? </span> </div>
+        <div class="core-row"> <span> 3S </span> <span> 11+,S4+ </span> </div>
+        <div class="core-row"> <span> 3NT </span> <span> 11+,H有挡,S4+ </span> </div>
     </td>
 </tr>
 </table>
@@ -720,7 +726,7 @@
         <div class="core-row"> <span> 3C </span> <span> 8-10,C4+ </span> </div>
         <div class="core-row"> <span> 3D </span> <span> 8-10,D4+ </span> </div>
         <div class="core-row"> <span> 3H </span> <span> 8-10,H4+ </span> </div>
-        <div class="core-row"> <span> 3S </span> <span> 11+，无挡 </span> </div>
+        <div class="core-row"> <span> 3S </span> <span> 11+,无挡 </span> </div>
         <div class="core-row"> <span> 3NT </span> <span> Toplay </span> </div>
     </td></tr>
 </table>
@@ -733,7 +739,7 @@
         <div class="core-row"> <span> 3C </span> <span> 17-</span> </div>
         <div class="core-row"> <span> 3D </span> <span> 17+,5+D </span> </div>
         <div class="core-row"> <span> 3H </span> <span> 17+,5+H </span> </div>
-        <div class="core-row"> <span> 3S </span> <span> 17+，5+C </span> </div>
+        <div class="core-row"> <span> 3S </span> <span> 17+,5+C </span> </div>
         <div class="core-row"> <span> 3NT </span> <span> 20+ </span> </div>
     </td> <td></td> <td></td></tr>
 </table>
@@ -746,9 +752,9 @@
     </td> 
     <td>        
         <div class="core-row"> <span> 3D </span> <span> 0-8,4+D </span> </div>
-        <div class="core-row"> <span> 3H </span> <span> 11+,H5+ </span> </div>
+        <div class="core-row"> <span> 3H </span> <span> 11+,H4+ </span> </div>
         <div class="core-row"> <span> 3S </span> <span> 11+,S有挡 </span> </div>
-        <div class="core-row"> <span> 3NT </span> <span> ? </span> </div>
+        <div class="core-row"> <span> 3NT </span> <span> 11+,S有挡H4+ </span> </div>
     </td>
 </tr>
 </table>
