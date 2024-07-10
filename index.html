@@ -63,6 +63,33 @@
     .bid td {
       line-height: 1.5;
     }
+
+    .bid {
+      border-collapse: collapse;
+      width: 100%;
+    }
+
+    .bid td {
+      border: 1px solid black;
+      padding: 10px;
+      text-align: center;
+    }
+
+    .bid tr:nth-child(even) {
+      background-color: #f2f2f2;
+    }
+
+
+    .bid .core-row {
+      display: flex;
+      /* 将单元格内容设置为 flex 布局 */
+      justify-content: space-between;
+      /* 将内容在单元格内两侧对齐 */
+    }
+
+    .bid .core-row span {
+      margin: 0 0.5rem;
+    }
   </style>
 </head>
 
