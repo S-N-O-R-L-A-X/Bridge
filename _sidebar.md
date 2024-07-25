@@ -18,7 +18,8 @@
 
 - competition
   - [2023-05-20](competition/2023-05-20/index.md)
-
+  - [2024-07-09](competition/2024-07-09/index.md)
+  
 - training
 
   - [2023-02-22](training/2023-02-22.md)

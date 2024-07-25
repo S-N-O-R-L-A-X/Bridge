@@ -1,4 +1,4 @@
-## 垃圾庄再现
+## 垃圾庄
 第二轮最后一副，成为了全场唯一做宕3NT的人。
 
 <div class="board-container">
