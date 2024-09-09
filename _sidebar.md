@@ -38,4 +38,8 @@
   - defence
     - [2023-10-07](xinrui/defence/2023-10-07b8/2023-10-07b8.md)
 
+- decisions
+  - [微弱信息选择花色](decisions/2024-08-24/2024-08-24b7.md)
+  - [单有局的选择](decisions/2024-08-30/2024-08-30b5.md)
+
 - [13P](https://s-n-o-r-l-a-x.github.io/13p-backup/)
