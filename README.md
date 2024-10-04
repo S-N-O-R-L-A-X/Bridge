@@ -16,10 +16,16 @@
         100% { transform: translate(-150%, 0); }
     }
 </style>
+
+<div class="marquee">
+逃跑退赛其疾如风 四明分析其徐如林 批评队友侵略如火 搭档有难不动如山 描述牌型难知如阴 坑人摔牌动如雷震
+</div>
+
 It is fun to play bridge.
 
 The repo will record something related with Bridge, including Bridge Master 2000(BM2000).
 
-<div class="marquee">
-逃跑退赛其疾如风 四明分析其徐如林 批评队友侵略如火 搭档有难不动如山 描述牌型难知如阴 坑人摔牌动如雷震
+<div class="sponsor">
+    <img src="/wechat.png" />
+    <img src="/alipay.jpg" />
 </div>
