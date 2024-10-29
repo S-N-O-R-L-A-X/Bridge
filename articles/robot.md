@@ -65,5 +65,5 @@
 </div>
 
 <div class="xinrui-two-dummy">
-  <img src="articles/2022.jpg" />
+  <img src="articles/2021-08-11.jpg" />
 </div>
