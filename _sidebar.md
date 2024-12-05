@@ -31,10 +31,13 @@
   - [2023-05-31](training/2023-05-31.md)
   - [2023-06-07](training/2023-06-07.md)
   - [2023-06-11](training/2023-06-11.md)
+  - [2023-08-16](training/2023-08-16.md)
 
 - 新睿
   - declare
-    - [2024-03-26](xinrui/declare/2024-03-26/一牌多解的6C.md)
+    - [一牌多解的6C](xinrui/declare/2024-03-26b1/2024-03-26b1.md)
+    - [多线路选择](xinrui/declare/2024-06-18b2/2024-06-18b2.md)
+    - [多线路选择](xinrui/declare/2024-08-25b10/2024-08-25b10.md)
   - defence
     - [2023-10-07](xinrui/defence/2023-10-07b8/2023-10-07b8.md)
 
