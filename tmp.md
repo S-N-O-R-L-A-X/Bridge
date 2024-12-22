@@ -629,7 +629,7 @@
 ## 来本索尔
 
 总结
-1. 直接扣叫 = FG，没挡没四张另一高花；2NT后扣叫=FG，有挡没四张另一高花；2NT后叫另一高花=FG，无挡有高花；2NT后叫3NT=FG有挡有高花。
+1. 直接扣叫=FG，无挡无高花；直接3NT=有挡无高花；2NT后扣叫=FG，无挡有高花；2NT后叫3NT=FG,有挡有高花。
 
 ### 自然2H开叫后
 <table class="bid">
@@ -639,7 +639,7 @@
         <div class="core-row"> <span> 2NT </span> <span> lebonsohl </span> </div>
         <div class="core-row"> <span> 3C </span> <span> 8-10,C4+ </span> </div>
         <div class="core-row"> <span> 3D </span> <span> 8-10,D4+ </span> </div>
-        <div class="core-row"> <span> 3H </span> <span> 11+,无挡无4张H </span> </div>
+        <div class="core-row"> <span> 3H </span> <span> 11+,无挡无4张S </span> </div>
         <div class="core-row"> <span> 3S </span> <span> 8-10,S4+ </span> </div>
         <div class="core-row"> <span> 3NT </span> <span> Toplay </span> </div>
     </td></tr>
@@ -666,8 +666,8 @@
     </td> 
     <td>        
         <div class="core-row"> <span> 3D </span> <span> 0-8,4+D </span> </div>
-        <div class="core-row"> <span> 3H </span> <span> 11+,H有挡 </span> </div>
-        <div class="core-row"> <span> 3S </span> <span> 11+,S4+ </span> </div>
+        <div class="core-row"> <span> 3H </span> <span> 11+,H无挡,S4+ </span> </div>
+        <div class="core-row"> <span> 3S </span> <span> ? </span> </div>
         <div class="core-row"> <span> 3NT </span> <span> 11+,H有挡,S4+ </span> </div>
     </td>
 </tr>
@@ -682,7 +682,7 @@
         <div class="core-row"> <span> 3C </span> <span> 8-10,C4+ </span> </div>
         <div class="core-row"> <span> 3D </span> <span> 8-10,D4+ </span> </div>
         <div class="core-row"> <span> 3H </span> <span> 8-10,H4+ </span> </div>
-        <div class="core-row"> <span> 3S </span> <span> 11+,无挡 </span> </div>
+        <div class="core-row"> <span> 3S </span> <span> 11+,无挡无4张H </span> </div>
         <div class="core-row"> <span> 3NT </span> <span> Toplay </span> </div>
     </td></tr>
 </table>
@@ -708,9 +708,9 @@
     </td> 
     <td>        
         <div class="core-row"> <span> 3D </span> <span> 0-8,4+D </span> </div>
-        <div class="core-row"> <span> 3H </span> <span> 11+,H4+ </span> </div>
-        <div class="core-row"> <span> 3S </span> <span> 11+,S有挡 </span> </div>
-        <div class="core-row"> <span> 3NT </span> <span> 11+,S有挡H4+ </span> </div>
+        <div class="core-row"> <span> 3H </span> <span> 0-8,4+H </span> </div>
+        <div class="core-row"> <span> 3S </span> <span> 11+,无挡H4+ </span> </div>
+        <div class="core-row"> <span> 3NT </span> <span> 11+,S有挡,H4+ </span> </div>
     </td>
 </tr>
 </table>
