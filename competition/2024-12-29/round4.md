@@ -50,31 +50,31 @@
 <details>
   <summary class="check">四明手如下</summary>
   <div class="board-container">
-  <div class="Nhand">
-    <font color="0000C0">♠</font> A32 <br>
-    <font color="E80000">♥</font> KQT5 <br>
-    <font color="FF6000">♦</font> AJ6 <br>
-    <font color="00A000">♣</font> A87 <br>
+    <div class="Nhand">
+      <font color="0000C0">♠</font> A32 <br>
+      <font color="E80000">♥</font> KQT5 <br>
+      <font color="FF6000">♦</font> AJ6 <br>
+      <font color="00A000">♣</font> A87 <br>
+    </div>
+    <div class="Shand">
+      <font color="0000C0">♠</font> KQT654 <br>
+      <font color="E80000">♥</font> A96 <br>
+      <font color="FF6000">♦</font> 4 <br>
+      <font color="00A000">♣</font> T42 <br>
+    </div>
+    <div class="Ehand">
+      <font color="0000C0">♠</font> J98 <br>
+      <font color="E80000">♥</font> 84 <br>
+      <font color="FF6000">♦</font> T8752 <br>
+      <font color="00A000">♣</font> KQ6 <br>
+    </div>
+    <div class="Whand">
+      <font color="0000C0">♠</font> 7 <br>
+      <font color="E80000">♥</font> J732 <br>
+      <font color="FF6000">♦</font> KQ93 <br>
+      <font color="00A000">♣</font> J953 <br>
+    </div>
   </div>
-  <div class="Shand">
-    <font color="0000C0">♠</font> KQT654 <br>
-    <font color="E80000">♥</font> A96 <br>
-    <font color="FF6000">♦</font> 4 <br>
-    <font color="00A000">♣</font> T42 <br>
-  </div>
-  <div class="Ehand">
-    <font color="0000C0">♠</font> J98 <br>
-    <font color="E80000">♥</font> 84 <br>
-    <font color="FF6000">♦</font> T8752 <br>
-    <font color="00A000">♣</font> KQ6 <br>
-  </div>
-  <div class="Whand">
-    <font color="0000C0">♠</font> 7 <br>
-    <font color="E80000">♥</font> J732 <br>
-    <font color="FF6000">♦</font> KQ93 <br>
-    <font color="00A000">♣</font> J953 <br>
-  </div>
-</div>
   http://www.gembridge.cn/score/TeamRoundBoards?tourStart=2024-12-27&tour=31628&event=6fb32ec2-57d8-4616-b4d1-6bcf48ada890&section=56c2813e-8a8c-4fed-99eb-e6f4796e4b53&round=4&seg=0&board=4&from=ccba
   <br/>
   在四明手的情况下，由于西家持有方块KQ和红桃J四张，第一轮不忍让也能打成。<br/>
@@ -84,8 +84,60 @@
 
 
 ## 赌吗？
+<div class="board-container">
+  <div class="Whand">
+    <font color="0000C0">♠</font> KQJ753 <br>
+    <font color="E80000">♥</font> 5 <br>
+    <font color="FF6000">♦</font> T73 <br>
+    <font color="00A000">♣</font> KJT <br>
+  </div>
+</div>
 
-http://www.gembridge.cn/score/TeamRoundBoards?tourStart=2024-12-27&tour=31628&event=6fb32ec2-57d8-4616-b4d1-6bcf48ada890&section=56c2813e-8a8c-4fed-99eb-e6f4796e4b53&round=4&seg=0&board=5&from=ccba
+单无局
+
+<table>
+  <tr><td>WEST</td> <td>NORTH</td> <td>EAST</td> <td>SOUTH</td></tr>
+  <tr><td></td> <td>pass</td> <td>1H</td> <td>pass</td></tr>
+  <tr><td>1S</td> <td>pass</td> <td>2H</td> <td>pass </td></tr>
+  <tr><td>?</td> <td></td> <td></td> <td></td></tr>
+</table>
+
+还叫吗？首先，叫什么？有的人这里2S是逼局，那就只能跳3S。同伴上4S的话，那4S应该可以打打；但不管同伴是叫3NT还是pass，3S都可能很惨。
+pass的话一方面容易漏局，一方面可能黑桃确实比红桃定约好。
+怎么办呢？
+
+<details>
+  <summary class="check">四明手如下</summary>
+  <div class="board-container">
+    <div class="Nhand">
+      <font color="0000C0">♠</font> A4 <br>
+      <font color="E80000">♥</font> Q93 <br>
+      <font color="FF6000">♦</font> A54 <br>
+      <font color="00A000">♣</font> 96532 <br>
+    </div>
+    <div class="Shand">
+      <font color="0000C0">♠</font> 96 <br>
+      <font color="E80000">♥</font> T84 <br>
+      <font color="FF6000">♦</font> KQJ62 <br>
+      <font color="00A000">♣</font> 874 <br>
+    </div>
+    <div class="Ehand">
+      <font color="0000C0">♠</font> T82 <br>
+      <font color="E80000">♥</font> AKJ762 <br>
+      <font color="FF6000">♦</font> 98 <br>
+      <font color="00A000">♣</font> AQ <br>
+    </div>
+    <div class="Whand">
+      <font color="0000C0">♠</font> KQJ753 <br>
+      <font color="E80000">♥</font> 5 <br>
+      <font color="FF6000">♦</font> T73 <br>
+      <font color="00A000">♣</font> KJT <br>
+    </div>
+  </div>
+  http://www.gembridge.cn/score/TeamRoundBoards?tourStart=2024-12-27&tour=31628&event=6fb32ec2-57d8-4616-b4d1-6bcf48ada890&section=56c2813e-8a8c-4fed-99eb-e6f4796e4b53&round=4&seg=0&board=5&from=ccba
+  <br/>
+  实战是4高花都有的牌，但显然4S更好一些。
+</details>
 
 
 ## 该死的感觉
