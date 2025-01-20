@@ -20,6 +20,10 @@
   - [2023-05-20](competition/2023-05-20/index.md)
   - [2024-07-09](competition/2024-07-09/index.md)
   
+- decisions
+  - [防守选择](competition/2024-08-24/2024-08-24b7.md)
+  - [面对高阶阻击叫](competition/2024-08-30/2024-08-30b5.md)
+  
 - training
 
   - [2023-02-22](training/2023-02-22.md)
