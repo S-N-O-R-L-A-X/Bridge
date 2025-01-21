@@ -49,6 +49,10 @@
     - [来本索尔后](#来本索尔后-1)
       - [3C后](#3c后-1)
 - [逆跳后的发展](#逆跳后的发展)
+- [1NT后的逃叫](#1nt后的逃叫-1)
+  - [第一声](#第一声)
+  - [XX之后的发展](#xx之后的发展)
+  - [pass之后的发展](#pass之后的发展)
 
 ## 傀儡stayman
 <table class="bid">
@@ -838,3 +842,44 @@
 * 4阶叫同伴花色，定低花将牌，满贯兴趣。
 * 4阶叫自己花色，止叫。
 * 4阶另一低花，对自己花色的温和满贯兴趣。
+
+## 1NT后的逃叫
+
+总结 
+1. 需要逃叫 逃5张套pass逼叫到XX，再直接出套；44套除了双低花都直接叫低的；双低花和4333从XX起步，让同伴示选低花，之后若叫到自己3张套从XX表示。
+2. 不需要逃叫 pass逼叫到XX后罚放。
+
+### 第一声
+
+<table class="bid">
+    <tr><td>WEST</td> <td>NORTH</td> <td>EAST</td> <td>SOUTH</td></tr>
+    <tr><td> </td> <td>1NT</td> <td>X</td> <td>
+        <div class="core-row"> <span> pass </span> <span> 逼叫到XX </span> </div>
+        <div class="core-row"> <span> XX </span> <span> 请同伴叫3张m </span> </div>
+        <div class="core-row"> <span> 2C </span> <span> 4C+4M </span> </div>
+        <div class="core-row"> <span> 2D </span> <span> 4D+4M </span> </div>
+        <div class="core-row"> <span> 2H </span> <span> S+H </span> </div>
+    </td></tr>
+</table>
+
+### XX之后的发展
+
+<table class="bid">
+    <tr><td>WEST</td> <td>NORTH</td> <td>EAST</td> <td>SOUTH</td></tr>
+    <tr><td> </td> <td>1NT</td> <td>X</td> <td> XX </td> </tr>
+    <tr><td> pass </td>  <td>2C</td> <td> X </td> <td>
+        <div class="core-row"> <span> pass </span> <span> 4+C </span> </div>
+        <div class="core-row"> <span> XX </span> <span> any 4333 请同伴逃 </span> </div>
+    </td></tr>
+</table>
+
+### pass之后的发展
+
+<table class="bid">
+    <tr><td>WEST</td> <td>NORTH</td> <td>EAST</td> <td>SOUTH</td></tr>
+    <tr><td> </td> <td>1NT</td> <td>X</td> <td> pass </td></tr>
+    <tr><td> pass </td> <td>XX</td> <td> pass </td> <td>
+        <div class="core-row"> <span> pass </span> <span> 想打，之后追杀 </span> </div>
+        <div class="core-row"> <span> 2C/D/H/S </span> <span> 5+ </span> </div>
+    </td></tr>
+</table>
