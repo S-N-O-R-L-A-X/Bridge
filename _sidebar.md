@@ -44,6 +44,8 @@
     - [多线路选择](xinrui/declare/2024-08-25b10/2024-08-25b10.md)
   - defence
     - [2023-10-07](xinrui/defence/2023-10-07b8/2023-10-07b8.md)
+    - [教科书式的错误](xinrui/defence/2024-11-24b4/2024-11-24b4.md)
+
 
 - decisions
   - [微弱信息选择花色](decisions/2024-08-24/2024-08-24b7.md)
