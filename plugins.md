@@ -48,6 +48,13 @@
   - [自然2S开叫后](#自然2s开叫后)
     - [来本索尔后](#来本索尔后-1)
       - [3C后](#3c后-1)
+- [1NT 后遭遇争叫](#1nt-后遭遇争叫)
+  - [1NT 被 2H 争叫后](#1nt-被-2h-争叫后)
+    - [3C后](#3c后-2)
+    - [3D后](#3d后)
+  - [1NT 被 2S 争叫后](#1nt-被-2s-争叫后)
+    - [3C后](#3c后-3)
+    - [3D后](#3d后-1)
 - [逆跳后的发展](#逆跳后的发展)
 - [1NT后的逃叫](#1nt后的逃叫-1)
   - [第一声](#第一声)
@@ -833,6 +840,112 @@
 </tr>
 </table>
 
+
+## 1NT 后遭遇争叫
+总结
+
+1. 从2NT到3H都是转移，转移到对方花色=单缺该花色，不含另一高花5张的三套牌；转移完低花后再扣叫表示该花色单缺，低花套6张，叫3NT表示3NT/5低花示选（一般无挡张）。
+2. 直接3S = 55m,FG，直接3NT = 有挡无高花；2NT后3D = 无挡4-5张另一高花；转移高花后3NT = 有挡5张高花；无挡无高花或有挡有4张高花可X起步。
+
+
+### 1NT 被 2H 争叫后
+<table class="bid">
+    <tr><td>WEST</td> <td>NORTH</td> <td>EAST</td> <td>SOUTH</td></tr>
+    <tr><td><div class="core-row">  </div> </td> <td>1NT</td> <td><span> 2H </span> <span> 含H（除去双高花）的任意约定 </span></td> <td>
+        <div class="core-row"> <span> X </span> <span> 技术性 </span> </div>
+        <div class="core-row"> <span> 2S </span> <span> 止叫 </span> </div>
+        <div class="core-row"> <span> 2NT </span> <span> 转移到3C </span> </div>
+        <div class="core-row"> <span> 3C </span> <span> 转移到3D </span> </div>
+        <div class="core-row"> <span> 3D </span> <span> H单缺，S3-4张,FG </span> </div>
+        <div class="core-row"> <span> 3H </span> <span> 转移到3S </span> </div>
+        <div class="core-row"> <span> 3S </span> <span> 55m,FG </span> </div>
+        <div class="core-row"> <span> 3NT </span> <span> Toplay </span> </div>
+        <div class="core-row"> <span> 4C </span> <span>  </span> </div>
+        <div class="core-row"> <span> 4D </span> <span>  </span> </div>
+        <div class="core-row"> <span> 4H </span> <span> 转移到4S </span> </div>
+        <div class="core-row"> <span> 4S </span> <span>  </span> </div>
+        <div class="core-row"> <span> 4NT </span> <span>  </span> </div>
+    </td></tr>
+</table>
+
+#### 3C后
+<table class="bid">
+    <tr><td>WEST</td> <td>NORTH</td> <td>EAST</td> <td>SOUTH</td></tr>
+    <tr><td><div class="core-row">  </div> </td> <td>1NT</td> <td><span> 2H </span> <span> 含H（除去双高花）的任意约定 </span></td> <td>2NT * 转移3C</td></tr>
+    <tr><td>  pass </td><td><div class="core-row"> <span> 3C </span> </div> </td> <td>pass
+    </td> 
+    <td>        
+        <div class="core-row"> <span> 3D </span> <span> H无挡，S4-5，FG </span> </div>
+        <div class="core-row"> <span> 3H </span> <span> C6+,H单缺,FG </span> </div>
+        <div class="core-row"> <span> 3S </span> <span> 5C4S,FG </span> </div>
+        <div class="core-row"> <span> 3NT </span> <span> 3NT/5C示选</span> </div>
+    </td>
+</tr>
+</table>
+
+#### 3D后
+
+<table class="bid">
+    <tr><td>WEST</td> <td>NORTH</td> <td>EAST</td> <td>SOUTH</td></tr>
+    <tr><td><div class="core-row">  </div> </td> <td>1NT</td> <td><span> 2H </span> <span> 含H（除去双高花）的任意约定 </span></td> <td>3C* 转移3D </td> </tr>
+    <tr><td>  pass </td><td><div class="core-row"> <span> 3D </span> </div> </td> <td>pass
+    </td> 
+    <td>        
+        <div class="core-row"> <span> 3H </span> <span> D6+,H单缺,FG </span> </div>
+        <div class="core-row"> <span> 3S </span> <span> 5D4S,FG </span> </div>
+        <div class="core-row"> <span> 3NT </span> <span> 3NT/5D示选 </span> </div>
+    </td>
+</tr>
+</table>
+
+### 1NT 被 2S 争叫后
+<table class="bid">
+    <tr><td>WEST</td> <td>NORTH</td> <td>EAST</td> <td>SOUTH</td></tr>
+    <tr><td><div class="core-row">  </div> </td> <td>1NT</td> <td><span> 2S </span> <span> 含S（除去双高花）的任意约定 </span></td> <td>
+        <div class="core-row"> <span> X </span> <span> 技术性 </span> </div>
+        <div class="core-row"> <span> 2NT </span> <span> 转移到3C </span> </div>
+        <div class="core-row"> <span> 3C </span> <span> 转移到3D </span> </div>
+        <div class="core-row"> <span> 3D </span> <span> 转移到3H </span> </div>
+        <div class="core-row"> <span> 3H </span> <span> S单缺，H3-4张,FG </span> </div>
+        <div class="core-row"> <span> 3S </span> <span> 55+m,FG </span> </div>
+        <div class="core-row"> <span> 3NT </span> <span> Toplay </span> </div>
+        <div class="core-row"> <span> 4C </span> <span>  </span> </div>
+        <div class="core-row"> <span> 4D </span> <span> 转移到4H </span> </div>
+        <div class="core-row"> <span> 4H </span> <span>  </span> </div>
+        <div class="core-row"> <span> 4S </span> <span>  </span> </div>
+        <div class="core-row"> <span> 4NT </span> <span>  </span> </div>
+    </td></tr>
+</table>
+
+#### 3C后
+<table class="bid">
+    <tr><td>WEST</td> <td>NORTH</td> <td>EAST</td> <td>SOUTH</td></tr>
+    <tr><td><div class="core-row">  </div> </td> <td>1NT</td> <td><span> 2S </span> <span> 含S（除去双高花）的任意约定 </span></td> <td> 2NT* 转移3C </td> </tr>
+    <tr><td>  pass </td><td><div class="core-row"> <span> 3C </span> </div> </td> <td>pass
+    </td> 
+    <td>        
+        <div class="core-row"> <span> 3D </span> <span> S无挡，H4-5，FG </span> </div>
+        <div class="core-row"> <span> 3H </span> <span> C5H4,FG </span> </div>
+        <div class="core-row"> <span> 3S </span> <span> C6+,S单缺,FG </span> </div>
+        <div class="core-row"> <span> 3NT </span> <span> 3NT/5C示选 </span> </div>
+    </td>
+</tr>
+</table>
+
+#### 3D后
+
+<table class="bid">
+    <tr><td>WEST</td> <td>NORTH</td> <td>EAST</td> <td>SOUTH</td></tr>
+    <tr><td><div class="core-row">  </div> </td> <td>1NT</td> <td><span> 2S </span> <span> 含S（除去双高花）的任意约定 </span></td> <td> 3C* 转移3D </td> </tr>
+    <tr><td>  pass </td><td><div class="core-row"> <span> 3D </span> </div> </td> <td>pass
+    </td> 
+    <td>        
+        <div class="core-row"> <span> 3H </span> <span> D5H4,FG </span> </div>
+        <div class="core-row"> <span> 3S </span> <span> D6+,S单缺,FG </span> </div>
+        <div class="core-row"> <span> 3NT </span> <span> 3NT/5D示选 </span> </div>
+    </td>
+</tr>
+</table>
 
 ## 逆跳后的发展
 逆跳 18-21，6331/5422
