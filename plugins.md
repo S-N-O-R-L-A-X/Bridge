@@ -60,6 +60,13 @@
   - [第一声](#第一声)
   - [XX之后的发展](#xx之后的发展)
   - [pass之后的发展](#pass之后的发展)
+- [54顺叫后第四花色的发展](#54顺叫后第四花色的发展)
+  - [1D 1H 2C 2S后](#1d-1h-2c-2s后)
+    - [3C后](#3c后-4)
+    - [3D后](#3d后-2)
+  - [1D 1S 2C 2H后](#1d-1s-2c-2h后)
+    - [3C后](#3c后-5)
+    - [3D后](#3d后-3)
 
 ## 傀儡stayman
 <table class="bid">
@@ -995,4 +1002,97 @@
         <div class="core-row"> <span> pass </span> <span> 想打，之后追杀 </span> </div>
         <div class="core-row"> <span> 2C/D/H/S </span> <span> 5+ </span> </div>
     </td></tr>
+</table>
+
+## 54顺叫后第四花色的发展
+
+总结
+1. 2NT = 15-18,54套，守得住第四门花色
+2. 3NT = 12-14,54套，守得住第四门花色
+3. 3C = 12-14, 10+双套或12-17,守不住第四门花色
+4. 3D = 15-17，10+双套
+5. 叫同伴花色 = 3张支持,12-14
+6. 叫第四门花色 = 3张支持,15-17
+
+3C/3D 后升一级问叫，3H = 无挡张；3S = 55+；3NT = 64
+
+### 1D 1H 2C 2S后
+<table class="bid">
+    <tr><td>NORTH</td>  <td>SOUTH</td></tr>
+    <tr><td>1D</td>   <td> 1H</td></tr>
+    <tr><td>2C</td>   <td> 2S* FG</td></tr>
+    <tr><td>
+        <div class="core-row"> <span> 2NT </span> <span> 15-18,有S挡张,H3- </span> </div> 
+        <div class="core-row"> <span> 3C </span> <span> 12-14,10+m或12-17守不住S </span> </div> 
+        <div class="core-row"> <span> 3D </span> <span> 15-17,10+m </span> </div> 
+        <div class="core-row"> <span> 3H </span> <span> 3+H,12-14 </span> </div> 
+        <div class="core-row"> <span> 3S </span> <span> 3+H,15-17 </span> </div> 
+        <div class="core-row"> <span> 3NT </span> <span> 12-14,有S挡张,H3- </span> </div> 
+    </td> </tr>
+</table>
+
+#### 3C后
+<table class="bid">
+    <tr><td>NORTH</td>  <td>SOUTH</td></tr>
+    <tr><td>1D</td>   <td> 1H</td></tr>
+    <tr><td>2C</td>   <td> 2S* FG</td></tr>
+    <tr><td>3C* 12-14,10+m或12-17守不住S</td> <td> 3D* 问叫</td></tr>
+    <tr><td>
+        <div class="core-row"> <span> 3H </span> <span> 守不住S </span> </div> 
+        <div class="core-row"> <span> 3S </span> <span> 55+m </span> </div> 
+        <div class="core-row"> <span> 3NT </span> <span> 6D4C</span> </div> 
+    </td> </tr>
+</table>
+
+#### 3D后
+<table class="bid">
+    <tr><td>NORTH</td>  <td>SOUTH</td></tr>
+    <tr><td>1D</td>   <td> 1H</td></tr>
+    <tr><td>2C</td>   <td> 2S* FG</td></tr>
+    <tr><td>3D* 15-17,10+m</td> <td> 3H* 问叫</td></tr>
+    <tr><td>
+        <div class="core-row"> <span> 3S </span> <span> 55+m </span> </div> 
+        <div class="core-row"> <span> 3NT </span> <span> 6D4C </span> </div> 
+    </td> </tr>
+</table>
+
+### 1D 1S 2C 2H后
+<table class="bid">
+    <tr><td>NORTH</td>  <td>SOUTH</td></tr>
+    <tr><td>1D</td>   <td> 1S</td></tr>
+    <tr><td>2C</td>   <td> 2H* FG</td></tr>
+    <tr><td>
+        <div class="core-row"> <span> 2S </span> <span> 3+S,12-14 </span> </div> 
+        <div class="core-row"> <span> 2NT </span> <span> 15-18,有H挡张,S3- </span> </div> 
+        <div class="core-row"> <span> 3C </span> <span> 12-14,10+m或12-17守不住H </span> </div> 
+        <div class="core-row"> <span> 3D </span> <span> 15-17,10+m </span> </div> 
+        <div class="core-row"> <span> 3H </span> <span> 3+S,15-17</span> </div> 
+        <div class="core-row"> <span> 3S </span> <span> ? </span> </div> 
+        <div class="core-row"> <span> 3NT </span> <span> 12-14,有H挡张,S3- </span> </div> 
+    </td> </tr>
+</table>
+
+#### 3C后
+<table class="bid">
+    <tr><td>NORTH</td>  <td>SOUTH</td></tr>
+    <tr><td>1D</td>   <td> 1S</td></tr>
+    <tr><td>2C</td>   <td> 2H* FG</td></tr>
+    <tr><td>3C* 12-14,10+m或12-17守不住H</td> <td> 3D* 问叫</td></tr>
+    <tr><td>
+        <div class="core-row"> <span> 3H </span> <span> 守不住H </span> </div> 
+        <div class="core-row"> <span> 3S </span> <span> 55+m </span> </div> 
+        <div class="core-row"> <span> 3NT </span> <span> 6D4C</span> </div> 
+    </td> </tr>
+</table>
+
+#### 3D后
+<table class="bid">
+    <tr><td>NORTH</td>  <td>SOUTH</td></tr>
+    <tr><td>1D</td>   <td> 1S</td></tr>
+    <tr><td>2C</td>   <td> 2H* FG</td></tr>
+    <tr><td>3D* 15-17,10+m</td> <td> 3H* 问叫</td></tr>
+    <tr><td>
+        <div class="core-row"> <span> 3S </span> <span> 55+m </span> </div> 
+        <div class="core-row"> <span> 3NT </span> <span> 6D4C </span> </div> 
+    </td> </tr>
 </table>
