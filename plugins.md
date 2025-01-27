@@ -60,13 +60,17 @@
   - [第一声](#第一声)
   - [XX之后的发展](#xx之后的发展)
   - [pass之后的发展](#pass之后的发展)
-- [54顺叫后第四花色的发展](#54顺叫后第四花色的发展)
+- [1D 1M 2C 顺叫后第四花色的发展](#1d-1m-2c-顺叫后第四花色的发展)
   - [1D 1H 2C 2S后](#1d-1h-2c-2s后)
     - [3C后](#3c后-4)
     - [3D后](#3d后-2)
   - [1D 1S 2C 2H后](#1d-1s-2c-2h后)
     - [3C后](#3c后-5)
     - [3D后](#3d后-3)
+- [1H 1S 2m后的发展](#1h-1s-2m后的发展)
+  - [1H 1S 2C后的发展](#1h-1s-2c后的发展)
+  - [1H 1S 2D后的发展](#1h-1s-2d后的发展)
+    - [1H 1S 2D 3C后的发展](#1h-1s-2d-3c后的发展)
 
 ## 傀儡stayman
 <table class="bid">
@@ -1004,13 +1008,13 @@
     </td></tr>
 </table>
 
-## 54顺叫后第四花色的发展
+## 1D 1M 2C 顺叫后第四花色的发展
 
 总结
 1. 2NT = 15-18,54套，守得住第四门花色
 2. 3NT = 12-14,54套，守得住第四门花色
 3. 3C = 12-14, 10+双套或12-17,守不住第四门花色
-4. 3D = 15-17，10+双套
+4. 3D = 15-17, 10+双套
 5. 叫同伴花色 = 3张支持,12-14
 6. 叫第四门花色 = 3张支持,15-17
 
@@ -1096,3 +1100,63 @@
         <div class="core-row"> <span> 3NT </span> <span> 6D4C </span> </div> 
     </td> </tr>
 </table>
+
+
+## 1H 1S 2m后的发展
+首先，逼局的时候有什么可能的牌？
+S一定有5个，不然第一声是2C逼局。
+
+### 1H 1S 2C后的发展
+
+<table class="bid">
+    <tr><td>NORTH</td>  <td>SOUTH</td></tr>
+    <tr><td>1H</td>   <td> 1S</td></tr>
+    <tr><td>2C</td>   <td> 2D* FG</td></tr>
+    <tr><td>
+        <div class="core-row"> <span> 2H </span> <span>  </span> </div> 
+        <div class="core-row"> <span> 2S </span> <span> 3+S,12-14 </span> </div> 
+        <div class="core-row"> <span> 2NT </span> <span> 15-18,有H挡张,S3- </span> </div> 
+        <div class="core-row"> <span> 3C </span> <span> 12-14,10+m或12-17守不住H </span> </div> 
+        <div class="core-row"> <span> 3D </span> <span> 15-17,10+m </span> </div> 
+        <div class="core-row"> <span> 3H </span> <span> 3+S,15-17</span> </div> 
+        <div class="core-row"> <span> 3S </span> <span> ? </span> </div> 
+        <div class="core-row"> <span> 3NT </span> <span> 12-14,有H挡张,S3- </span> </div> 
+    </td> </tr>
+</table>
+
+### 1H 1S 2D后的发展
+
+<table class="bid">
+    <tr><td>NORTH</td>  <td>SOUTH</td></tr>
+    <tr><td>1H</td>   <td> 1S</td></tr>
+    <tr><td>2D</td>   <td> 
+        <div class="core-row"> <span> 2H </span> <span> 示选 </span> </div> 
+        <div class="core-row"> <span> 2S </span> <span> S6+,6-9</span> </div> 
+        <div class="core-row"> <span> 2NT </span> <span> 自然邀请 </span> </div> 
+        <div class="core-row"> <span> 3C </span> <span> FG </span> </div> 
+        <div class="core-row"> <span> 3D </span> <span> 8-9,D4+ </span> </div> 
+        <div class="core-row"> <span> 3H </span> <span> 10-11,H3 </span> </div> 
+        <div class="core-row"> <span> 3S </span> <span> 10-11,S6+ </span> </div> 
+        <div class="core-row"> <span> 3NT </span> <span> ？ </span> </div> 
+    </td> </tr>
+</table>
+
+#### 1H 1S 2D 3C后的发展
+
+<table class="bid">
+    <tr><td>NORTH</td>  <td>SOUTH</td></tr>
+    <tr><td>1H</td>   <td> 1S</td></tr>
+    <tr><td>2D</td>   <td> 3C* FG</td></tr>
+    <tr><td>
+        <div class="core-row"> <span> 3D </span> <span> 12-17，H5D5 </span> </div> 
+        <div class="core-row"> <span> 3H </span> <span> 12-17，H6D4 </span> </div> 
+        <div class="core-row"> <span> 3S </span> <span> S大小双张，C无挡 </span> </div> 
+        <div class="core-row"> <span> 3NT </span> <span> 12-14，C挡张</span> </div> 
+        <div class="core-row"> <span> 4C </span> <span> 12-14，H6D5 </span> </div> 
+        <div class="core-row"> <span> 4D </span> <span> 15-17，H6D5 </span> </div> 
+        <div class="core-row"> <span> 4H </span> <span> 12-14，S3 </span> </div> 
+        <div class="core-row"> <span> 4S </span> <span> 15-17，S3 </span> </div> 
+    </td> </tr>
+</table>
+
+3D,3H后叫3S = 6+S ；3NT = 差牌想打；4C = H 配合满贯兴趣；4D = D 配合满贯兴趣。4C/4D/4H之后开叫人叫4S/5C表示排除关键张问叫。
