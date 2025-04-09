@@ -71,6 +71,8 @@
   - [1H 1S 2C后的发展](#1h-1s-2c后的发展)
   - [1H 1S 2D后的发展](#1h-1s-2d后的发展)
     - [1H 1S 2D 3C后的发展](#1h-1s-2d-3c后的发展)
+      - [1H 1S 2D 3C 3D后的发展](#1h-1s-2d-3c-3d后的发展)
+      - [1H 1S 2D 3C 3D 3H后的发展](#1h-1s-2d-3c-3d-3h后的发展)
 
 ## 傀儡stayman
 <table class="bid">
@@ -1103,8 +1105,6 @@
 
 
 ## 1H 1S 2m后的发展
-首先，逼局的时候有什么可能的牌？
-S一定有5个，不然第一声是2C逼局。
 
 ### 1H 1S 2C后的发展
 
@@ -1120,12 +1120,17 @@ S一定有5个，不然第一声是2C逼局。
         <div class="core-row"> <span> 3D </span> <span> 15-17,10+m </span> </div> 
         <div class="core-row"> <span> 3H </span> <span> 3+S,15-17</span> </div> 
         <div class="core-row"> <span> 3S </span> <span> ? </span> </div> 
-        <div class="core-row"> <span> 3NT </span> <span> 12-14,有H挡张,S3- </span> </div> 
+        <div class="core-row"> <span> 3NT </span> <span>  </span> </div> 
     </td> </tr>
 </table>
 
 ### 1H 1S 2D后的发展
-
+首先，3C逼局的时候有什么可能的牌？
+* S5+
+* H满贯兴趣
+* D满贯兴趣
+* 对3NT有疑问
+  
 <table class="bid">
     <tr><td>NORTH</td>  <td>SOUTH</td></tr>
     <tr><td>1H</td>   <td> 1S</td></tr>
@@ -1137,26 +1142,65 @@ S一定有5个，不然第一声是2C逼局。
         <div class="core-row"> <span> 3D </span> <span> 8-9,D4+ </span> </div> 
         <div class="core-row"> <span> 3H </span> <span> 10-11,H3 </span> </div> 
         <div class="core-row"> <span> 3S </span> <span> 10-11,S6+ </span> </div> 
-        <div class="core-row"> <span> 3NT </span> <span> ？ </span> </div> 
+        <div class="core-row"> <span> 3NT </span> <span> 想打 </span> </div> 
     </td> </tr>
 </table>
 
 #### 1H 1S 2D 3C后的发展
+开叫人的潜在情况
+* 55,12-17
+* 64,15-17
+* 65,12-17
+* 3541,12-17
+* 1543,12-17
+* 2542,12-14
 
 <table class="bid">
     <tr><td>NORTH</td>  <td>SOUTH</td></tr>
     <tr><td>1H</td>   <td> 1S</td></tr>
     <tr><td>2D</td>   <td> 3C* FG</td></tr>
     <tr><td>
-        <div class="core-row"> <span> 3D </span> <span> 12-17，H5D5 </span> </div> 
-        <div class="core-row"> <span> 3H </span> <span> 12-17，H6D4 </span> </div> 
-        <div class="core-row"> <span> 3S </span> <span> S大小双张，C无挡 </span> </div> 
-        <div class="core-row"> <span> 3NT </span> <span> 12-14，C挡张</span> </div> 
-        <div class="core-row"> <span> 4C </span> <span> 12-14，H6D5 </span> </div> 
-        <div class="core-row"> <span> 4D </span> <span> 15-17，H6D5 </span> </div> 
-        <div class="core-row"> <span> 4H </span> <span> 12-14，S3 </span> </div> 
-        <div class="core-row"> <span> 4S </span> <span> 15-17，S3 </span> </div> 
+        <div class="core-row"> <span> 3D </span> <span> 等叫 </span> </div> 
+        <div class="core-row"> <span> 3H </span> <span> 5H5D，S1-，12-17 </span> </div> 
+        <div class="core-row"> <span> 3S </span> <span> H6D4，S1-，15-17 </span> </div> 
+        <div class="core-row"> <span> 3NT </span> <span> 12-17，C有挡</span> </div> 
+        <div class="core-row"> <span> 4C </span> <span> 3541,15-17</span> </div> 
+        <div class="core-row"> <span> 4D </span> <span> H6D5,12-14 </span> </div> 
+        <div class="core-row"> <span> 4H </span> <span> H6D5,15-17 </span> </div> 
+        <div class="core-row"> <span> 4S </span> <span> 3541,12-14 </span> </div> 
     </td> </tr>
 </table>
 
-3D,3H后叫3S = 6+S ；3NT = 差牌想打；4C = H 配合满贯兴趣；4D = D 配合满贯兴趣。4C/4D/4H之后开叫人叫4S/5C表示排除关键张问叫。
+##### 1H 1S 2D 3C 3D后的发展
+
+<table class="bid">
+    <tr><td>NORTH</td>  <td>SOUTH</td></tr>
+    <tr><td>1H</td>   <td> 1S</td></tr>
+    <tr><td>2D</td>   <td> 3C* FG</td></tr>
+    <tr><td>3D* 等叫</td>   <td>
+        <div class="core-row"> <span> 3H </span> <span> 等叫 </span> </div> 
+        <div class="core-row"> <span> 3S </span> <span> S6+ </span> </div> 
+        <div class="core-row"> <span> 3NT </span> <span> S5，C有挡 </span> </div> 
+        <div class="core-row"> <span> 4C </span> <span> H3+，C控制，满贯兴趣 </span> </div> 
+        <div class="core-row"> <span> 4D </span> <span> D4，强烈满贯兴趣 </span> </div> 
+        <div class="core-row"> <span> 4H </span> <span> H3+，满贯兴趣 </span> </div> 
+        <div class="core-row"> <span> 4S </span> <span>  </span> </div> 
+    </td> </tr>
+</table>
+
+##### 1H 1S 2D 3C 3D 3H后的发展
+
+<table class="bid">
+    <tr><td>NORTH</td>  <td>SOUTH</td></tr>
+    <tr><td>1H</td>   <td> 1S</td></tr>
+    <tr><td>2D</td>   <td> 3C* FG</td></tr>
+    <tr><td>3D* 等叫</td>   <td> 3H* 等叫</td></tr>
+    <tr><td>
+        <div class="core-row"> <span> 3S </span> <span> 2542,12-14 </span> </div> 
+        <div class="core-row"> <span> 3NT </span> <span> 1543,12-17 </span> </div> 
+        <div class="core-row"> <span> 4C </span> <span> 2551,15-17，应叫人4D=温和满贯，4H/4S=止叫，4NT=问D </span> </div> 
+        <div class="core-row"> <span> 4D </span> <span> 2551,12-14，应叫人4H/4S=止叫，4NT=问D </span> </div> 
+        <div class="core-row"> <span> 4H </span> <span> 2641,15-17 </span> </div> 
+        <div class="core-row"> <span> 4S </span> <span>  </span> </div> 
+    </td> </tr>
+</table>
