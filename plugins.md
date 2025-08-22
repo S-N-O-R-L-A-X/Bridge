@@ -343,7 +343,7 @@
         <div class="core-row"> <span> 2S </span> </div> 
     </td> </tr>
     <tr><td>3C</td>   <td>
-        <div class="core-row"> <span> 3D </span> <span> m inv </span> </div> 
+        <div class="core-row"> <span> 3D </span> <span> - </span> </div> 
         <div class="core-row"> <span> 3H/S </span> <span> 55m,单缺,12+,满贯兴趣 </span> </div> 
         <div class="core-row"> <span> 3NT </span> <span> toplay </span> </div> 
         <div class="core-row"> <span> 4C </span> <span> 6C5D </span> </div> 
