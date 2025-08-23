@@ -20,7 +20,6 @@
   - [2S后回答3C的发展](#2s后回答3c的发展)
 - [二阶阻击叫的争叫](#二阶阻击叫的争叫)
 - [缺门关键张问叫](#缺门关键张问叫)
-- [1NT后的逃叫](#1nt后的逃叫)
 - [双套牌的牺牲与否](#双套牌的牺牲与否)
 - [双路stayman后的发展](#双路stayman后的发展)
 - [gazzili](#gazzili)
@@ -56,7 +55,7 @@
     - [3C后](#3c后-3)
     - [3D后](#3d后-1)
 - [逆跳后的发展](#逆跳后的发展)
-- [1NT后的逃叫](#1nt后的逃叫-1)
+- [1NT后的逃叫](#1nt后的逃叫)
   - [第一声](#第一声)
   - [XX之后的发展](#xx之后的发展)
   - [pass之后的发展](#pass之后的发展)
@@ -469,20 +468,6 @@
 
 ## 缺门关键张问叫
 03/1/1+Q/2/2+Q
-
-## 1NT后的逃叫
-<table class="bid">
-    <tr><td>WEST</td> <td>NORTH</td> <td>EAST</td> <td>SOUTH</td></tr>
-    <tr><td></td> <td>1NT</td> <td>X</td> <td>XX 转移2C</td></tr>
-    <tr><td>pass</td><td>2C</td><td>pass</td><td>2D 4D+4M <br /> 2H 4H+4S</td></tr>
-</table>
-
-<table class="bid">
-    <tr><td>WEST</td> <td>NORTH</td> <td>EAST</td> <td>SOUTH</td></tr>
-    <tr><td></td> <td>1NT</td> <td>X</td> <td>XX</td></tr>
-    <tr><td>pass</td><td>2C</td><td>pass</td><td>pass</td></tr>
-    <tr><td>X</td><td>pass</td><td>pass</td><td>XX 4C+4D/H/S</td></tr>
-</table>
 
 
 ## 双套牌的牺牲与否
